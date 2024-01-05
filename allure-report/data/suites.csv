@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jan 04 18:48:28 IST 2024","Thu Jan 04 18:48:44 IST 2024","15621","","cart e2e flow testcases","","","","login and items purchase TC smoke --2",""
+"passed","Thu Jan 04 18:48:44 IST 2024","Thu Jan 04 18:48:45 IST 2024","1754","","cart e2e flow testcases","","","","step with screenshot Tc-3",""
+"broken","Thu Jan 04 18:48:03 IST 2024","Thu Jan 04 18:48:13 IST 2024","9620","","cart e2e flow testcases","","","","login and items purchase TC-1",""

@@ -1,0 +1,4901 @@
+{
+  "personalInfo": {
+    "assesseeName": {
+      "firstName": "Ankit",
+      "middleName": "Das",
+      "surNameOrOrgName": "Gupta"
+    },
+    "pan": "BURPG1234P",
+    "address": {
+      "residenceNo": 4,
+      "residenceName": "Srinidhi Residency",
+      "roadOrStreet": "Road Number 5",
+      "localityOrArea": "Vikrampuri",
+      "cityOrTownOrDistrict": "Hyderabad",
+      "stateCode": "36",
+      "countryCode": "91",
+      "pinCode": 500009,
+      "zipCode": "",
+      "phone": {
+        "stDcode": 40,
+        "phoneNo": 8974897489
+      },
+      "countryCodeMobile": "91",
+      "mobileNo": 9876543210,
+      "countryCodeMobileNoSec": "91",
+      "mobileNoSec": 7896543210,
+      "emailAddress": "ankit.gupta@gmail.com",
+      "emailAddressSecondary": "dasgupta@gmail.com"
+    },
+    "dob": "2001-04-03",
+    "status": "I",
+    "aadhaarCardNo": "121212121212",
+    "portugeseCC5A": "Y",
+    "capacity": "S",
+    "assesseeVerName": "ADF",
+    "fatherName": "IJK",
+    "orgFirmInfo": {
+      "AssesseeName": {
+        "SurNameOrOrgName": "XYZ"
+      },
+      "DateOFFormOrIncorp": "2019-10-13",
+      "StatusOrCompanyType": "14"
+    },
+    "filingStatus": {
+      "residentialStatus": "RES"
+    },
+    "assesseVerPan": "BURPG1234P",
+    "schedule5a2014": {
+      "aadharOfSpouse": "121212121212"
+    }
+  },
+  "form26as": {
+    "tdsOnSalaries": {
+      "tdsOnSalary": [
+        {
+          "employerOrDeductorOrCollectDetl": {
+            "tan": "HYDS03028F",
+            "employerOrDeductorOrCollecterName": "Tribunal pvt ltd"
+          },
+          "incChrgSal": 100000,
+          "totalTDSSal": 10000
+        }
+      ]
+    },
+    "scheduleTDS3Dtls": {
+      "tds3Details": [
+        {
+          "panOfTenant": "GHJKL6789U",
+          "nameOfTenant": "Shivani",
+          "panTANofTenant": "HYDF12345K",
+          "grsRcptToTaxDeduct": 200000,
+          "deductedYr": "2018",
+          "tdsDeducted": 28000,
+          "tdsClaimed": 20000,
+          "grossAmount": 20000,
+          "broughtFwdTDSAmt": 7000,
+          "taxDeductCreditDtls": {
+            "taxDeductedOwnHands": 25000,
+            "taxClaimedOwnHands": 20000
+          },
+          "HeadOfIncome": "",
+          "TDSCreditName": "S",
+          "sectionCode": "",
+          "formtype": ""
+        }
+      ]
+    },
+    "scheduleTCS": {
+      "tcs": [
+        {
+          "employerOrDeductorOrCollectDetl": {
+            "tan": "AGRS03028F",
+            "employerOrDeductorOrCollecterName": "Tribunal pvt ltd"
+          },
+          "amtTaxCollected": 100000,
+          "collectedYr": "2012",
+          "totalTCS": 10000,
+          "amtTCSClaimedThisYear": 9000,
+          "amtfrm26AS": 9000,
+          "TCSCreditName": "S"
+        }
+      ]
+    },
+    "taxPayments": {
+      "taxPayment": [
+        {
+          "bsrCode": "5650987",
+          "dateDep": "2021-11-04",
+          "srlNoOfChaln": 12345,
+          "amt": 10000,
+          "receiptNumber": "123456789089078",
+          "nameOfBankAndBranch": {
+            "nameOfBank": "",
+            "nameOfBranch": ""
+          }
+        }
+      ],
+      "totalTaxPayments": 175000
+    },
+    "tdsOnOthThanSals": {
+      "tdSonOthThanSal": [
+        {
+          "employerOrDeductorOrCollectDetl": {
+            "tan": "HYDS03028F",
+            "employerOrDeductorOrCollecterName": "Tribunal pvt ltd"
+          },
+          "amtForTaxDeduct": 100000,
+          "deductedYr": "2018",
+          "totTDSOnAmtPaid": 10000,
+          "claimOutOfTotTDSOnAmtPaid": 9000,
+          "tanOfDeductor": "HYDS55678R",
+          "tdsDeducted": 9000,
+          "tdsClaimed": 9000,
+          "broughtFwdTDSAmt": 12000,
+          "taxDeductCreditDtls": {
+            "taxDeductedOwnHands": 25000,
+            "taxClaimedOwnHands": 20000
+          },
+          "grossAmount": 10000,
+          "headOfIncome": "HP",
+          "sectionCode": "",
+          "TDSCreditName": "S"
+        }
+      ]
+    },
+    "grossRent": 200000,
+    "incomeDeductionsOthersInc": [
+      {
+        "othSrcNatureDesc": "IFD",
+        "othSrcOthAmount": 5000
+      }
+    ],
+    "grsTrnOverAnyOthMode": 10000,
+    "persumptiveInc44ADA": {
+      "grsReceipt": 10000,
+      "totPersumptiveInc44ADA": 5000
+    },
+    "scheduleOS": {
+      "incOthThanOwnRaceHorse": {
+        "intrstFrmOthers": 6000,
+        "rentFromMachPlantBldgs": 7000,
+        "ltryPzzlChrgblUs115BB": 9000,
+        "dividendGross": 5000,
+        "othersInc": {
+          "othersIncDtls": [
+            {
+              "othNatOfInc": "ABC",
+              "othAmount": 1000000
+            }
+          ]
+        },
+        "OthersGrossDtls": [
+          {
+            "SourceDescription": "5AD1i",
+            "SourceAmount": 1000
+          }
+        ],
+        "DividendOthThan22e": 216278
+      },
+      "incFromOwnHorse": {
+        "receipts": 10000
+      }
+    },
+    "scheduleHP": {
+      "propertyDetails": [
+        {
+          "addressDetailWithZipCode": {
+            "addrDetail": "Ahuja residency",
+            "cityOrTownOrDistrict": "Secunderabad",
+            "stateCode": "36",
+            "countryCode": "91",
+            "pinCode": 500015,
+            "zipCode": ""
+          },
+          "coOwners": [
+            {
+              "nameCoOwner": "",
+              "panCoOwner": "",
+              "percentShareProperty": "",
+              "aadhaarCoOwner": ""
+            }
+          ],
+          "tenantDetails": [
+            {
+              "nameOfTenant": "Samreen Fatima",
+              "panOfTenant": "AAAPL1234C",
+              "panTANofTenant": "AGRP91234C",
+              "aadhaarofTenant": "121212121212"
+            }
+          ],
+          "grossRent": 200000,
+          "typeOfHP": "Y",
+          "ifLetOut": "Y",
+          "tsn_id": "",
+          "parent_tsn_id": ""
+        }
+      ]
+    },
+    "intrstFrmTermDeposit": 10000,
+    "typeOfHP": "Y",
+    "scheduleBP": {
+      "TurnoverGrsRcptForGSTIN": [
+        {
+          "gstinNo": "29ABCDE1234F2Z5",
+          "amtTurnGrossRcptGSTIN": 20000
+        }
+      ]
+    },
+    "shortTermCapGainFor23": {
+      "SaleofLandBuild": {
+        "SaleofLandBuildDtls": [
+          {
+            "FullConsideration": "",
+            "TrnsfImmblPrprty": {
+              "TrnsfImmblPrprtyDtls": [
+                {
+                  "NameOfBuyer": "",
+                  "AadhaarOfBuyer": "",
+                  "Amount": "",
+                  "AddressOfProperty": "",
+                  "PinCode": "",
+                  "PANofBuyer": ""
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "longTermCapGain23": {
+      "SaleofLandBuild": {
+        "SaleofLandBuildDtls": [
+          {
+            "FullConsideration": "",
+            "PropertyValuation": "",
+            "TrnsfImmblPrprty": {
+              "TrnsfImmblPrprtyDtls": [
+                {
+                  "NameOfBuyer": "",
+                  "AadhaarOfBuyer": "",
+                  "Amount": "",
+                  "AddressOfProperty": "",
+                  "PinCode": "",
+                  "PANofBuyer": ""
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ScheduleTPSA": {
+      "DtlsTaxesPaid": [
+        {
+          "BSRCode": "1234567",
+          "BankBranchName": "XYZ",
+          "DateDep": "2020-11-03",
+          "SrlNoOfChaln": "12345",
+          "Amount": 10000,
+          "receiptNumber": "765432"
+        }
+      ]
+    },
+    "ScheduleBBS": {
+      "TaxPaymentOnDDTndBBS": [
+        {
+          "DateDep": "2022-11-03",
+          "NameOfBankAndBranch": {
+            "NameOfBank": "Axis Bank",
+            "NameOfBranch": "Karkhana"
+          },
+          "BSRCode": "1234567",
+          "SrlNoOfChaln": "12345",
+          "Amt": 56565,
+          "receiptNumber": "765432"
+        }
+      ]
+    },
+    "IncrExpAggAmt2LkTrvFrgnCntryFlg": "Y",
+    "AmtSeventhProvisio139ii": ""
+  },
+  "lastFiledITR": {
+    "employerCategory": "CGOV",
+    "typeOfHP": "Y",
+    "natOfBus44AD": [
+      {
+        "nameOfBusiness": "Cafe Coffee Day",
+        "codeAD": "01002",
+        "description": "Growing and manufacturing of coffee"
+      }
+    ],
+    "natOfBus44ADA": [
+      {
+        "nameOfBusiness": "Intense Technologies",
+        "codeADA": "14001",
+        "description": "Software development"
+      }
+    ],
+    "natOfBus44AE": [
+      {
+        "nameOfBusiness": "Transportation",
+        "codeAE": "08001",
+        "description": "Renting of land transport equipment"
+      }
+    ],
+    "goodsDtlsUs44AE": [
+      {
+        "regNumberGoodsCarriage": 1234567890,
+        "tonnageCapacity": 10,
+        "holdingPeriod": 2,
+        "ownedLeasedHiredFlag": "HIRED"
+      }
+    ],
+    "turnoverGrsRcptForGSTIN": [
+      {
+        "gstinNo": "29ABCDE1234F2Z5",
+        "amtTurnGrossRcptGSTIN": 10000
+      }
+    ],
+    "jurisdictionResPrevYr": {
+      "jurisdictionResPrevYrDtls": [
+        {
+          "jurisdictionResidence": 93,
+          "tin": 287
+        }
+      ]
+    },
+    "benefitUs115HFlg": "Y",
+    "compDirectorPrvYrFlg": "Y",
+    "compDirectorPrvYr": {
+      "compDirectorPrvYrDtls": [
+        {
+          "nameOfCompany": "ABC",
+          "companyType": "D",
+          "pan": "AAAPL1234C",
+          "sharesTypes": "L",
+          "din": 12345678
+        }
+      ]
+    },
+    "heldUnlistedEqShrPrYrFlg": "Y",
+    "heldUnlistedEqShrPrYr": {
+      "heldUnlistedEqShrPrYrDtls": [
+        {
+          "nameOfCompany": "abc",
+          "companyType": "D",
+          "pan": "AAAPL1234C",
+          "opngBalNumberOfShares": 567,
+          "opngBalCostOfAcquisition": 15000
+        }
+      ]
+    },
+    "scheduleSPI": {
+      "specifiedPerson": [
+        {
+          "specifiedPersonName": "ABC",
+          "paNofSpecPerson": "GHYUI1234G",
+          "reltnShip": "XYZ",
+          "aadhaarOfSpecPerson": "123453211234"
+        }
+      ]
+    },
+    "scheduleEI": {
+      "unabAgriLossPrev8": 50000,
+      "excNetAgriInc": {
+        "excNetAgriIncDtls": [
+          {
+            "nameOfDistrict": "Visakhapatnam",
+            "pinCode": 530026,
+            "measurementOfLand": 10,
+            "agriLandOwnedFlag": "O",
+            "agriLandIrrigatedFlag": "IRG"
+          }
+        ]
+      },
+      "othersInc": {
+        "othersIncDtl": [
+          {
+            "acknowledgementNum": "",
+            "dateofFormFiled": "",
+            "natureExempt": ""
+          }
+        ]
+      }
+    },
+    "scheduleFA": {
+      "detailsForiegnBank": [
+        {
+          "countryName": "AFGHANISTAN",
+          "countryCode": "93",
+          "bankname": "Afghanistan International Bank",
+          "addressOfBank": "Airport Road, BiBi Mahro P.O.Box No. 2074, Kabul Afghanistan",
+          "zipCode": 23456767,
+          "foreignAccountNumber": "1234567890098765",
+          "ownerStatus": "OWNER",
+          "accOpenDate": "1999-06-21"
+        }
+      ],
+      "dtlsForeignCustodialAcc": [
+        {
+          "countryName": "AFGHANISTAN",
+          "countryCode": "93",
+          "financialInstName": "XYZ",
+          "financialInstAddress": "ABC",
+          "zipCode": 546478,
+          "accountNumber": "1267893487654567",
+          "status": "OWNER",
+          "accOpenDate": "1999-06-21",
+          "peakBalanceDuringPeriod": ""
+        }
+      ],
+      "dtlsForeignEquityDebtInterest": [
+        {
+          "countryName": "AFGHANISTAN",
+          "countryCode": "93",
+          "nameOfEntity": "XYZ",
+          "addressOfEntity": "ABC",
+          "zipCode": 546478,
+          "natureOfEntity": "DEF",
+          "interestAcquiringDate": "1999-06-21",
+          "initialValOfInvstmnt": 50000,
+          "peakBalanceDuringPeriod": ""
+        }
+      ],
+      "dtlsForeignCashValueInsurance": [
+        {
+          "countryName": "AFGHANISTAN",
+          "countryCode": "93",
+          "financialInstName": "ABC",
+          "financialInstAddress": "XYZ",
+          "zipCode": 678908,
+          "contractDate": "1999-06-21",
+          "cashValOrSurrenderVal": 80000
+        }
+      ],
+      "detailsFinancialInterest": [
+        {
+          "countryName": "AFGHANISTAN",
+          "countryCode": "93",
+          "zipCode": 234243,
+          "natureOfEntity": "adc",
+          "nameOfEntity": "abc",
+          "addressOfEntity": "xyz",
+          "natureOfInt": "DIRECT",
+          "dateHeld": "1999-06-21",
+          "totalInvestment": 10000
+        }
+      ],
+      "detailsImmovableProperty": [
+        {
+          "countryName": "AFGHANISTAN",
+          "countryCode": "93",
+          "zipCode": 432123,
+          "addressOfProperty": "abcdef",
+          "ownership": "DIRECT",
+          "dateOfAcq": "1999-06-21",
+          "totalInvestment": 10000
+        }
+      ],
+      "detailsOthAssets": [
+        {
+          "countryName": "AFGHANISTAN",
+          "countryCode": "93",
+          "zipCode": 234321,
+          "natureOfAsset": "efgdsa",
+          "ownership": "DIRECT",
+          "dateOfAcq": "1999-06-21",
+          "totalInvestment": 15000
+        }
+      ],
+      "detailsOfAccntsHvngSigningAuth": [
+        {
+          "nameOfInstitution": "ABCD123",
+          "addressOfInstitution": "ADC",
+          "countryName": "ANDORRA",
+          "countryCode": "376",
+          "zipCode": 123456,
+          "nameMentionedInAccnt": "ABC",
+          "institutionAccountNumber": "1457896867897890"
+        }
+      ],
+      "detailsOfTrustOutIndiaTrustee": [
+        {
+          "countryName": "ANGOLA",
+          "countryCode": "244",
+          "zipCode": 567567,
+          "nameOfTrust": "abcdefgh",
+          "addressOfTrust": "ghjkkbnmhj",
+          "nameOfOtherTrustees": "rtyuiop",
+          "addressOfOtherTrustees": "dfghjklop",
+          "nameOfSettlor": "asdfghj",
+          "addressOfSettlor": "cvbnmkl",
+          "nameOfBeneficiaries": "asdgfhjk",
+          "addressOfBeneficiaries": "wertyuhjm",
+          "dateHeld": "1999-06-21"
+        }
+      ],
+      "detailsOfOthSourcesIncOutsideIndia": [
+        {
+          "countryName": "ANGOLA",
+          "countryCode": "244",
+          "zipCode": 123456,
+          "nameOfPerson": "abcdefghnmv",
+          "addressOfPerson": "hjklxdfghj",
+          "incDerived": 34000,
+          "natureOfInc": 50000
+        }
+      ]
+    },
+    "schedule5A2014": {
+      "nameOfSpouse": "abcd",
+      "panOfSpouse": "AAAPL1234C",
+      "aadharOfSpouse": ""
+    },
+    "assetOutIndiaFlag": "YES",
+    "foreignBankDetails": [
+      {
+        "swiftCode": "CTBAAU2S",
+        "bankName": "ABC",
+        "iban": "DE89370400440532013000",
+        "countryCode": "91"
+      }
+    ],
+    "PartnerInFirmFlg": "Y",
+    "partnerFirmDetails": {
+      "firmName": "",
+      "firmPAN": "",
+      "isLiableToAudit": "",
+      "sec92EFirmFlag": "",
+      "profitSharePercent": "",
+      "profitShareAmt": ""
+    },
+    "scheduleIF": {
+      "partnerFirmDetails": [
+        {
+          "firmName": "ABCV",
+          "firmPAN": "AAAPL1234C",
+          "isLiableToAudit": "Y",
+          "sec92EFirmFlag": "Y",
+          "profitSharePercent": 50,
+          "profitShareAmt": 15000
+        }
+      ],
+      "partnerInNumberOfFirms": 2
+    },
+    "NriPEinIndia": "Y",
+    "ForeignExchangeFlag": "Y",
+    "AuditInfo": {
+      "LiableSec44AAflg": "Y",
+      "AuditReportDetails": [
+        {
+          "AuditReportAct": 1,
+          "AuditReportSection": "",
+          "DateOfAudit": "2023-04-19",
+          "AuditReportActOthers": ""
+        }
+      ],
+      "IncDclrdUs": "",
+      "TotalSalesExcOneCr": "",
+      "AgrOfAllAmtsRcvd": "",
+      "AgrOfAllPayMade": ""
+    },
+    "scheduleHP": {
+      "propertyDetails": [
+        {
+          "addressDetailWithZipCode": {
+            "addrDetail": "Ahuja residency",
+            "cityOrTownOrDistrict": "Secunderabad",
+            "stateCode": "36",
+            "countryCode": "91",
+            "pinCode": 500015,
+            "zipCode": ""
+          },
+          "propertyOwner": "SE",
+          "propCoOwnedFlg": "YES",
+          "asseseeShareProperty": 80,
+          "coOwners": [
+            {
+              "nameCoOwner": "Amrita Ganguly",
+              "panCoOwner": "AAAPL1234C",
+              "percentShareProperty": 20,
+              "aadhaarCoOwner": ""
+            }
+          ],
+          "ifLetOut": "Y",
+          "tenantDetails": [
+            {
+              "nameOfTenant": "",
+              "panOfTenant": "",
+              "panTANofTenant": "",
+              "tenantSNo": "",
+              "AadhaarofTenant": "121212121212"
+            }
+          ]
+        }
+      ],
+      "tenantDetails": [
+        {
+          "nameOfTenant": "Samreen Fatima",
+          "panOfTenant": "AAAPL1234C",
+          "panTANofTenant": "AGRP91234C",
+          "tenantSNo": "",
+          "AadhaarofTenant": "121212121212"
+        }
+      ]
+    },
+    "scheduleUD": [
+      {
+        "AssYr": "2019-20",
+        "AmtBFUD": 53748,
+        "AmtBFUAllow": 73899,
+        "AmtAllowSOCY": "",
+        "AmtDeprSOCY": ""
+      }
+    ],
+    "scheduleTDS3Dtls": {
+      "tds3Details": [
+        {
+          "deductedYr": "2018",
+          "broughtFwdTDSAmt": 15000,
+          "PANOfBuyerTenant": "ASFPD1234D"
+        }
+      ]
+    },
+    "tdsOnOthThanSals": {
+      "tdSonOthThanSal": [
+        {
+          "deductedYr": "2018",
+          "broughtFwdTDSAmt": 9000,
+          "TANOfDeductor": "HYDS03028F"
+        }
+      ]
+    },
+    "scheduleTCS": {
+      "tcs": [
+        {
+          "deductedYr": "2015",
+          "broughtFwdTCSAmt": 10000,
+          "amtTCSClaimedThisYear": 9000,
+          "TAN": "HYDS03028F",
+          "employerOrDeductorOrCollecterName": ""
+        }
+      ]
+    },
+    "scheduleAMTC": {
+      "scheduleAMTCDtls": [
+        {
+          "assYr": "2018-19",
+          "amtCreditFwd": 10000,
+          "gross": 9000,
+          "amtCreditSetOfEy": 10000
+        }
+      ]
+    },
+    "usrDeductUndChapVIAType": {
+      "section80DD": 15000,
+      "section80DDUsrType": "2",
+      "section80DDB": 7000,
+      "section80DDBUsrType": "1",
+      "section80U": 15000,
+      "section80UUsrType": "1"
+    },
+    "bankAccountDtls": [
+      {
+        "addtnlBankDetails": [
+          {
+            "bankName": "Axis Bank",
+            "bankAccountNo": 121218,
+            "ifsccode": "UTIB0002766",
+            "useForRefund": true
+          }
+        ],
+        "bankDtlsFlag": "Y"
+      }
+    ],
+    "natOfEmployment": [
+      "CGOV"
+    ],
+    "scheduleDPM": {
+      "PlantMachinery": {
+        "Rate15": {
+          "DepreciationDetail": {
+            "WdvfirstDay": 15000
+          }
+        },
+        "Rate30": {
+          "DepreciationDetail": {
+            "WdvfirstDay": 15000
+          }
+        },
+        "Rate40": {
+          "DepreciationDetail": {
+            "WdvfirstDay": 15000
+          }
+        },
+        "Rate45": {
+          "depreciationDetail": {
+            "addlnDeprOnLessThan180DayAdditions": "",
+            "fullRateDeprAmt": "",
+            "capGainUs50": "",
+            "wdvfirstDay": "",
+            "wdvlastDay": "",
+            "depreciationAtFullRate": "",
+            "totalDepreciation": "",
+            "realizationTotalPeriod": "",
+            "depDisAllowUs38_2": "",
+            "netAggregateDepreciation": "",
+            "expdrOnTrforSaleAsset": "",
+            "addlnDeprOnGT180DayAdditions": "",
+            "proportionateAggDepreciation": ""
+          }
+        }
+      }
+    },
+    "scheduleDOA": {
+      "land": {
+        "DepreciationDetail": {
+          "WdvfirstDay": 15000,
+          "WdvlastDay": 12000
+        }
+      },
+      "building": {
+        "Rate5": {
+          "DepreciationDetail": {
+            "WdvfirstDay": 15000
+          }
+        },
+        "Rate10": {
+          "DepreciationDetail": {
+            "WdvfirstDay": 15000
+          }
+        },
+        "Rate40": {
+          "DepreciationDetail": {
+            "WdvfirstDay": 15000
+          }
+        }
+      },
+      "furnitureFittings": {
+        "Rate10": {
+          "DepreciationDetail": {
+            "WdvfirstDay": 15000
+          }
+        }
+      },
+      "intangibleAssets": {
+        "Rate25": {
+          "DepreciationDetail": {
+            "WdvfirstDay": 15000
+          }
+        }
+      },
+      "ships": {
+        "Rate20": {
+          "DepreciationDetail": {
+            "WdvfirstDay": 15000
+          }
+        }
+      }
+    },
+    "natOfBus": {
+      "NatureOfBusiness": [
+        {
+          "Code": "18017",
+          "TradeName1": "ABC",
+          "TradeName2": "PQR",
+          "TradeName3": "XYZ",
+          "Description": "cccccccccccc"
+        }
+      ]
+    },
+    "orgFirmInfo": {
+      "DateofBusCommencement": "2022-09-23",
+      "StatusOrCompanyType": "14",
+      "SubStatus": "15",
+      "LlpinissuedByMCA": "",
+      "DomesticCompFlg": "",
+      "CinissuedByMCA": ""
+    },
+    "partnerOrMemberInfo": [
+      {
+        "PartnerOrMemberName": "ABC",
+        "AddressDetailWithZipCode": {
+          "addrDetail": "ABC Residency",
+          "cityOrTownOrDistrict": "Secunderabad",
+          "stateCode": "36",
+          "countryCode": "91",
+          "pinCode": 500015,
+          "zipCode": ""
+        },
+        "SharePercentage": 30,
+        "Pan": "AAAPL1234C",
+        "AadhaarCardNo": "131313131313",
+        "RateOfInterest": 28,
+        "PercentageOfShareForeignComp": 19,
+        "LlpidentificationNo": "678932167",
+        "PartnerForeignCompFlg": "YES"
+      }
+    ],
+    "partAGEN2": {
+      "PartnerOrMemberInfo": [
+        {
+          "PartnerOrMemberName": "abc",
+          "AddressDetailWithZipCode": {
+            "addrDetail": "ABC",
+            "cityOrTownOrDistrict": "Hyderabad",
+            "stateCode": "36",
+            "countryCode": "91",
+            "pinCode": 530026,
+            "zipCode": ""
+          },
+          "SharePercentage": 70,
+          "Pan": "JDKPH5678P",
+          "AadhaarCardNo": "123453211234",
+          "RateOfInterest": 67,
+          "PercentageOfShareForeignComp": 45,
+          "LlpidentificationNo": "678932167",
+          "PartnerForeignCompFlg": "YES"
+        }
+      ],
+      "PvtDiscretioneryTrust": {
+        "PvtDiscTrustShareFlg": "",
+        "PvtDiscTrustBusIncFlg": "",
+        "PvtDiscTrustWillFlg": "",
+        "PvtDiscTrustReceivableFlg": "",
+        "PvtDiscTrustRelativesFlg": "",
+        "PvtDiscTrustBusProfFlg": ""
+      },
+      "NatOfBus": {
+        "NatureOfBusiness": [
+          {
+            "Code": "18017",
+            "TradeName1": "ABC",
+            "TradeName2": "PQR",
+            "TradeName3": "XYZ"
+          }
+        ]
+      },
+      "OtherDetailsFor7": {
+        "OtherDetailsUs2_15": {
+          "CharitablePurposeOfGeneralPublic": "",
+          "ActivityNature2_15": "",
+          "ActivityRendering2_15": "",
+          "AggAnnualRecptsofInst": [
+            {
+              "NameOfTheInstitution": ""
+            }
+          ]
+        }
+      },
+      "LiableSec44ABflg": "",
+      "AuditDetails": [
+        {
+          "AuditedSection": ""
+        }
+      ]
+    },
+    "scheduleSH": {
+      "ShrhldngUnlistedCompany": {
+        "DtlsSHEndPreviousYearUC": [
+          {
+            "ShareholderName": "ABCD",
+            "ResidentialStatus": "RES",
+            "ShareType": "ES",
+            "Pan": "JDKPH5678Q",
+            "AllotmentDate": "2017-09-23",
+            "NumberOfSharesHeld": 12,
+            "FaceValuePerShare": 1000,
+            "IssuePricePerShare": 5000,
+            "AmountReceived": 10000,
+            "Aadhaar": "444476124356"
+          }
+        ],
+        "DtlsEquityShareEndPrvYr": [
+          {
+            "ApplicantName": "ABC",
+            "ResidentialStatus": "NOR",
+            "ShareType": "RS",
+            "ShareTypeOthers": "XYZ",
+            "Pan": "ASFPD1234D",
+            "ApplicationDate": "2017-08-27",
+            "NumberOfSharesApplied": 15,
+            "ApplicationMoneyReceived": 8000,
+            "FaceValuePerShare": 700,
+            "ProposedIssuePrice": 15000,
+            "Aadhaar": "121314151678"
+          }
+        ],
+        "ShunlistedCompanyFlag": ""
+      },
+      "ShrhldngStartUps": {
+        "DtlsSHEndPreviousYearSU": [
+          {
+            "ShareholderName": "Ajay",
+            "ShareholderCategory": "VCP",
+            "ShareType": "ES",
+            "Pan": "ASFPD1234R",
+            "AllotmentDate": "2019-08-27",
+            "NumberOfSharesHeld": 200,
+            "FaceValuePerShare": 100,
+            "IssuePricePerShare": 1000,
+            "PaidUpValuePerShare": 700,
+            "SharePremium": 8309,
+            "Aadhaar": "678954321458"
+          }
+        ],
+        "DtlsShareAppMoneyAlltEndPrvYr": [
+          {
+            "ApplicantName": "ABC",
+            "ApplicantCategory": "NRI",
+            "ShareType": "SS",
+            "Pan": "BURPG1234P",
+            "ApplicationDate": "2020-04-02",
+            "NumberOfSharesApplied": 1000,
+            "FaceValuePerShare": 2000,
+            "ProposedIssuePrice": 1983,
+            "ShareApplicationMoney": 5849,
+            "ShareApplicationPremium": 5789,
+            "Aadhaar": "987654362130"
+          }
+        ]
+      }
+    },
+    "filingStatus": {
+      "FiiFpiFlag": "Y",
+      "FinancialStmtFlag": "",
+      "IsIfsc": "",
+      "UnderLiquidation": "",
+      "SebiRegnNo": 52353253,
+      "Sec581AFlag": "",
+      "AsseseeRepFlg": "",
+      "BusinessTrustFlag": "Y",
+      "InvstmntFundRefrdSec115UB": "Y",
+      "ForeignExchangeFlag": "Y",
+      "StartUpDPIITFlag": "Y",
+      "RecgnNumAllottedByDPIIT": 2423,
+      "InterMinisterialCertFlag": "Y",
+      "CertificationNumber": 2023,
+      "RegistratedLaw": "",
+      "ResidentSec90": "",
+      "Nripe": "Y",
+      "NriSEPinIndia": "",
+      "ResidentialStatus": "RES",
+      "ActDesc": "",
+      "ActRegNo": "",
+      "ActRegDate": "",
+      "Form2AccordPara5DPIITFlag": "Y",
+      "DateOfFilingForm2": "2022-07-11"
+    },
+    "partAGEN2For6": {
+      "HoldingStatus": {
+        "NatOfCompFlg": "",
+        "HoldingCompDetail": [
+          {
+            "CompDetails": {
+              "CompName": "",
+              "CompPAN": "",
+              "AddressDetailWithZipCode": {
+                "addrDetail": "",
+                "cityOrTownOrDistrict": "",
+                "stateCode": "",
+                "countryCode": "",
+                "pinCode": "",
+                "zipCode": ""
+              },
+              "CompSharePercent": ""
+            }
+          }
+        ],
+        "SubsidiaryCompDetail": [
+          {
+            "CompDetails": {
+              "CompName": "",
+              "CompPAN": "",
+              "AddressDetailWithZipCode": {
+                "addrDetail": "",
+                "cityOrTownOrDistrict": "",
+                "stateCode": "",
+                "countryCode": "",
+                "pinCode": "",
+                "zipCode": ""
+              },
+              "CompSharePercent": ""
+            }
+          }
+        ]
+      },
+      "KeyPersons": [
+        {
+          "PersonName": "",
+          "Designation": "",
+          "AddressDetailWithZipCode": {
+            "addrDetail": "",
+            "cityOrTownOrDistrict": "",
+            "stateCode": "",
+            "countryCode": "",
+            "pinCode": "",
+            "zipCode": ""
+          },
+          "KeyPerPAN": "",
+          "DirectorIdNo": "",
+          "KeyPersnAadhaar": ""
+        }
+      ],
+      "ShareHolderInfo": [
+        {
+          "ShareHolderInfoName": "",
+          "AddressDetailWithZipCode": {
+            "addrDetail": "",
+            "cityOrTownOrDistrict": "",
+            "stateCode": "",
+            "countryCode": "",
+            "pinCode": "",
+            "zipCode": ""
+          },
+          "PercentageOfShare": "",
+          "ShareHolderPAN": "",
+          "ShareHolderAadhaar": ""
+        }
+      ],
+      "OwnershipInfo": [
+        {
+          "OwnerName": "",
+          "AddressDetailWithZipCode": {
+            "addrDetail": "",
+            "cityOrTownOrDistrict": "",
+            "stateCode": "",
+            "countryCode": "",
+            "pinCode": "",
+            "zipCode": ""
+          },
+          "OwnerPAN": "",
+          "OwnerAadhaar": "",
+          "PercentageOfShare": ""
+        }
+      ],
+      "FrnCompImmediatePrntCompDtls": [
+        {
+          "Name": "",
+          "AddressDetailWithZipCode": {
+            "addrDetail": "",
+            "cityOrTownOrDistrict": "",
+            "stateCode": "",
+            "countryCode": "",
+            "pinCode": "",
+            "zipCode": ""
+          },
+          "CountryOfResidence": "",
+          "Pan": "",
+          "TaxpayerRegNumber": ""
+        }
+      ],
+      "FrnCompUltimatePrntCompDtls": [
+        {
+          "Name": "",
+          "AddressDetailWithZipCode": {
+            "addrDetail": "",
+            "cityOrTownOrDistrict": "",
+            "stateCode": "",
+            "countryCode": "",
+            "pinCode": "",
+            "zipCode": ""
+          },
+          "CountryOfResidence": "",
+          "Pan": "",
+          "TaxpayerRegNumber": ""
+        }
+      ],
+      "NatureOfComp": {
+        "PubSectCompUs236AFlg": "",
+        "CompLes40PercSharGovRBIFlg": "",
+        "BankCompUs5Flg": "",
+        "SchedBankOfRBIActFlg": "",
+        "CompWithIRDARegisterFlg": "",
+        "NonBankFIICompFlg": "",
+        "CompanyUnlistedFlag": "",
+        "RbicompFlg": ""
+      }
+    },
+    "scheduleAL": {
+      "AsstLiabilitiesUnlistedCompany": {
+        "DtlsBldLandResHouseUC": [
+          {
+            "Address": "Hyderabad",
+            "PinCode": "876543",
+            "AcquisitionDate": "2021-10-06",
+            "AcquisitionCost": "10000",
+            "Purpose": "SQ"
+          }
+        ],
+        "DtlsBldLandNotResHouseUC": [
+          {
+            "Address": "Hyderabad",
+            "PinCode": "876543",
+            "AcquisitionDate": "2021-10-06",
+            "AcquisitionCost": "10000",
+            "Purpose": "FA"
+          }
+        ],
+        "DtlsListedEquitySharesUC": [
+          {
+            "OpenBalNumberOfShares": "234",
+            "OpenBalShareType": "BS",
+            "OpenBalAcquisitionCost": "234"
+          }
+        ],
+        "DtlsUnListedEquitySharesUC": [
+          {
+            "CompanyName": "XYZ",
+            "Pan": "CVBNM8765T",
+            "OpenBalNumberOfShares": "654",
+            "OpenBalAcquisitionCost": "12334"
+          }
+        ],
+        "DtlsOtherSecuritiesUC": [
+          {
+            "SecuritiesType": "B",
+            "SecuritiesTypeOthers": "O",
+            "ListedUnlistedFlag": "L",
+            "OpenBalNumberOfSecurities": "77",
+            "OpenBalAcquisitionCost": "565"
+          }
+        ],
+        "DtlsCapitalContributionOthEntityUC": [
+          {
+            "EntityName": "ABC",
+            "Pan": "CVBNM7654R",
+            "OpeningBalance": "5657"
+          }
+        ],
+        "DtlsLoansAdvancesUC": [
+          {
+            "PersonName": "Ramu",
+            "Pan": "ASDFG2345R",
+            "OpeningBalance": "566"
+          }
+        ],
+        "DtlsVehiclestransportUC": [
+          {
+            "AssetParticulars": "A",
+            "AssetParticularsOthers": "O",
+            "RegNumVehicle": "AS65DF5678",
+            "AcquisitionCost": "12345",
+            "AcquisitionDate": "2021-10-06",
+            "Purpose": ""
+          }
+        ],
+        "DtlsJewelleryArchCollectionsUC": [
+          {
+            "AssetParticulars": "GJ",
+            "AssetParticularsOthers": "OT",
+            "Quantity": "465",
+            "AcquisitionCost": "546",
+            "AcquisitionDate": "2021-10-08",
+            "Purpose": ""
+          }
+        ],
+        "DtlsLiabilitiesUC": [
+          {
+            "PersonName": "Ramu",
+            "Pan": "ASDFG4321W",
+            "OpeningBalance": "546"
+          }
+        ],
+        "AlunlistedCompanyFlag": ""
+      },
+      "AsstLiabilitiesStartUps": {
+        "DtlsBldLandResHouseSU": [
+          {
+            "Address": "Hyderabad",
+            "PinCode": "876543",
+            "AcquisitionDate": "2021-10-09",
+            "AcquisitionCost": "345",
+            "Purpose": "LE"
+          }
+        ],
+        "DtlsBldLandNotResHouseSU": [
+          {
+            "Address": "Hyderabad",
+            "PinCode": "876543",
+            "AcquisitionDate": "2021-10-09",
+            "AcquisitionCost": "345",
+            "Purpose": "RE"
+          }
+        ],
+        "DtlsLoansAdvancesSU": [
+          {
+            "PersonName": "Ramu",
+            "Pan": "ASDFG6543E",
+            "LoansAdvancesDate": "2021-10-09",
+            "AmtLoansAdvances": "677"
+          }
+        ],
+        "DtlsCapitalContributionSU": [
+          {
+            "EntityName": "XYZ",
+            "Pan": "ASDFG7654D",
+            "CapitalContributionDate": "2021-10-09",
+            "AmtContribution": "567"
+          }
+        ],
+        "DtlsAcqustSharesSecuritiesSU": [
+          {
+            "EntityCompanyName": "XYZ",
+            "Pan": "ASDFG6543D",
+            "SharesSecuritiesType": "PS"
+          }
+        ],
+        "DtlsVehiclestransportSU": [
+          {
+            "AssetParticulars": "A",
+            "AssetParticularsOthers": "O",
+            "RegNumVehicle": "SD45FG65433",
+            "AcquisitionCost": "345",
+            "AcquisitionDate": "2021-10-09",
+            "Purpose": "IN"
+          }
+        ],
+        "DtlsJewelleryAcquiredSU": [
+          {
+            "AssetParticulars": "SJ",
+            "AssetParticularsOthers": "OMJ",
+            "Quantity": "345",
+            "AcquisitionCost": "564",
+            "AcquisitionDate": "2021-10-09",
+            "Purpose": "ST"
+          }
+        ],
+        "DtlsArchaeologicalCollctSU": [
+          {
+            "AssetParticulars": "DR",
+            "AssetParticularsOthers": "OT",
+            "Quantity": "678",
+            "AcquisitionCost": "876",
+            "AcquisitionDate": "2021-10-09",
+            "Purpose": "IN"
+          }
+        ],
+        "DtlsLiabilitiesSU": [
+          {
+            "PersonName": "Ramu",
+            "Pan": "ASDFG6543E",
+            "OpeningBalance": "876"
+          }
+        ],
+        "AlstartUpsFlag": ""
+      },
+      "ImmovableDetails": [
+        {
+          "Description": "Immovable Asset Details",
+          "AddressAL": {
+            "ResidenceNo": 101,
+            "ResidenceName": "Sai Residency",
+            "RoadOrStreet": "Road Number 5",
+            "LocalityOrArea": "Vikrampuri",
+            "CityOrTownOrDistrict": "Hyderabad",
+            "StateCode": "36",
+            "CountryCode": "91",
+            "PinCode": 505302,
+            "ZipCode":""
+          },
+          "Amount": 1000
+        }
+      ],
+      "MovableAsset": {
+        "DepositsInBank": 12222222222222,
+        "SharesAndSecurities": 11111345679788,
+        "InsurancePolicies": 34567123679887,
+        "LoansAndAdvancesGiven": 12345678909876,
+        "CashInHand": 90345678999999,
+        "JewelleryBullionEtc": 98765432126334,
+        "ArchCollDrawPaintSulpArt": 12345678890987,
+        "VehiclYachtsBoatsAircrafts": 12394567890998
+      },
+      "InterstAOPFlag": "",
+      "InterestHeldInaAsset": [
+        {
+          "NameOfFirm": "sai",
+          "AddressAL": {
+            "ResidenceNo": "101",
+            "ResidenceName": "Sriveni Residency",
+            "RoadOrStreet": "Road Number 2",
+            "LocalityOrArea": "ECIL",
+            "CityOrTownOrDistrict": "Hyderabad",
+            "StateCode": "36",
+            "CountryCode": "91",
+            "PinCode": 505307,
+            "ZipCode": 589070
+          },
+          "PanOfFirm": "AAAPL1234C",
+          "AssesseInvestment": 12345678909896
+        }
+      ]
+    },
+    "scheduleMATC": {
+      "UtilMATCredAvl": [
+        {
+          "AssYr": "2010-11",
+          "MatcredSetOff": 10000,
+          "MatcredGross": 15000
+        }
+      ]
+    },
+    "schedule80D": {
+      "Sec80DSelfFamSrCtznHealth": {
+        "SeniorCitizenFlag": "",
+        "ParentSeniorCitizenFlag": ""
+      }
+    },
+    "partAOI": {
+      "MethodOfAcct": "",
+      "ChangeInAcctMethFlg": "",
+      "MethodOfValClgStk": {
+        "ValRawMaterial": 3,
+        "ValFinishedGoods": 2,
+        "ChngStockValMetFlg": "Y",
+        "EffectOnPL": 7000,
+        "DecProOrIncLossUs145A": 5000
+      }
+    },
+    "manufacturingAccount": {
+      "openingInventory": {
+        "OpngStckRawMat": 62879,
+        "OpngStckWrkinPrgrs": 43657
+      }
+    },
+    "partAPL": {
+      "CreditsToPL": {
+        "OthIncome": {
+          "RentInc": 12728,
+          "Comissions": 37289,
+          "Dividends": 27783,
+          "InterestInc": 12233,
+          "ProfitOnSaleFixedAsset": 44322,
+          "ProfitOnInvChrSTT": 26278,
+          "ProfitOnOthInv": 33212,
+          "ProfitOnCurrFluct": 12233,
+          "ProfitOnCnvInvntryToCapAsst": 12343,
+          "ProfitOnAgriIncome": 17289,
+          "OtherIncDtls": [
+            {
+              "NatureOfIncome": "ABCDF",
+              "Amount": 56788
+            }
+          ]
+        }
+      },
+      "DebitsToPL": {
+        "Freight": "",
+        "ConsumptionOfStores": 63783,
+        "PowerFuel": 26378,
+        "RepairsBldg": 26389,
+        "RepairMach": 27638,
+        "EmployeeComp": {
+          "SalsWages": 26378,
+          "Bonus": 12233,
+          "MedExpReimb": 22133,
+          "LeaveEncash": 46378,
+          "LeaveTravelBenft": 27389,
+          "ContToSuperAnnFund": 17289,
+          "ContToPF": 73893,
+          "ContToGratFund": 38999,
+          "ContToOthFund": 93893,
+          "OthEmpBenftExpdr": 67889
+        },
+        "AnyCompPaidToNonRes": "Y",
+        "AmtPaidToNonRes": 36738,
+        "Insurances": {
+          "MedInsur": 63783,
+          "LifeInsur": 26378,
+          "KeyManInsur": 78292,
+          "OthInsur": 15267
+        },
+        "StaffWelfareExp": 92899,
+        "Entertainment": 27388,
+        "Hospitality": 82839,
+        "Conference": 73899,
+        "SalePromoExp": 12832,
+        "Advertisement": 56788,
+        "CommissionExpdrDtls": {
+          "NonResOtherCompany": 73849,
+          "Others": 46478,
+          "NonResCommAmtGt1Lakh": [
+            {
+              "Name": "ABC",
+              "Amount": 63782
+            }
+          ],
+          "NonResCommAmtLt1Lakh": 78983,
+          "OtherCommAmtGt1Lakh": [
+            {
+              "Name": "ABC",
+              "PAN": "AAAPL1234C",
+              "AadhaarCardNo": "562789095678",
+              "Amount": 72899
+            }
+          ],
+          "OtherCommAmtLt1Lakh": 73892
+        },
+        "RoyalityDtls": {
+          "NonResOtherCompany": 73849,
+          "Others": 73890
+        },
+        "ProfessionalConstDtls": {
+          "NonResOtherCompany": 8839,
+          "Others": 37488
+        },
+        "HotelBoardLodge": "",
+        "TravelExp": "",
+        "ForeignTravelExp": "",
+        "ConveyanceExp": "",
+        "TelephoneExp": "",
+        "GuestHouseExp": "",
+        "ClubExp": "",
+        "FestivalCelebExp": "",
+        "Scholarship": "",
+        "Gift": "",
+        "Donation": "",
+        "RatesTaxesPays": {
+          "ExciseCustomsVAT": {
+            "CustomDuty": "",
+            "CounterVailDuty": "",
+            "SplAddDuty": "",
+            "Cess": "",
+            "UnionExciseDuty": "",
+            "ServiceTax": "",
+            "CentralGoodServiceTax": "",
+            "StateGoodServiceTax": "",
+            "IntegratedGoodServiceTax": "",
+            "UnionTerrGoodServiceTax": "",
+            "OthDutyTaxCess": "",
+            "VatorSaleTax": ""
+          }
+        },
+        "AuditFee": "",
+        "OtherExpensesDtls": [
+          {
+            "ExpenseNature": "",
+            "Amount": ""
+          }
+        ],
+        "BadDebtDtls": {
+          "BadDebtAmtDtls": [
+            {
+              "Pan": "",
+              "AadhaarCardNo": "",
+              "Amount": ""
+            }
+          ],
+          "OthersPANNotAvlblDtl": [
+            {
+              "Name": "",
+              "FlatDoorBlockNumber": "",
+              "PremisesBuildingName": "",
+              "RoadStreetPostOffice": "",
+              "AreaLocality": "",
+              "TownCityDistrict": "",
+              "StateCode": "",
+              "CountryCode": "",
+              "PinCode": "",
+              "ZipCode": "",
+              "Amount": ""
+            }
+          ],
+          "OthersAmtLt1Lakh": ""
+        },
+        "ProvForBadDoubtDebt": "",
+        "OthProvisionsExpdr": "",
+        "InterestExpdrtDtls": {
+          "NonResOtherCompany": "",
+          "Others": ""
+        },
+        "DepreciationAmort": "",
+        "RentAmtLt1Lakh": "",
+        "DebitPlAcnt": {
+          "RentExpdr": "",
+          "CommissionExpdrDtls": {
+            "NonResOtherCompany": "",
+            "Others": ""
+          }
+        },
+        "RentAmtGt1Lakh": [
+          {
+            "Name": "",
+            "PAN": "",
+            "AadhaarCardNo": "",
+            "Amount": ""
+          }
+        ]
+      },
+      "TaxProvAppr": {
+        "ProvForCurrTax": "",
+        "ProvDefTax": "",
+        "ProfitAfterTax": "",
+        "BalBFPrevYr": "",
+        "AmtAvlAppr": "",
+        "TrfToReserves": "",
+        "ProprietorAccBalTrf": ""
+      },
+      "NatOfBus44AD": [
+        {
+          "NameOfBusiness": "",
+          "CodeAD": "",
+          "Description": ""
+        }
+      ],
+      "PersumptiveInc44AD": {
+        "GrsTrnOverOrReceipt": "",
+        "GrsTrnOverBank": "",
+        "GrsTrnOverAnyOthMode": "",
+        "TotPersumptiveInc44AD": "",
+        "PersumptiveInc44AD6Per": "",
+        "PersumptiveInc44AD8Per": ""
+      },
+      "NatOfBus44ADA": [
+        {
+          "NameOfBusiness": "",
+          "CodeADA": "",
+          "Description": ""
+        }
+      ],
+      "PersumptiveInc44ADA": {
+        "grsReceipt": "",
+        "totPersumptiveInc44ADA": ""
+      },
+      "NatOfBus44AE": [
+        {
+          "nameOfBusiness": "",
+          "codeAE": "",
+          "description": ""
+        }
+      ],
+      "GoodsDtlsUs44AE": [
+        {
+          "regNumberGoodsCarriage": "",
+          "tonnageCapacity": "",
+          "holdingPeriod": "",
+          "ownedLeasedHiredFlag": ""
+        }
+      ],
+      "TotalNumOfMonths": "",
+      "TotalPrsumptvIncUs44EGoods": "",
+      "TotalPrsumptvIncUs44E": "",
+      "NoBooksOfAccPL": {
+        "GrossReceipt": "",
+        "GrsRcptAccPayeeOrBankMode": "",
+        "GrsRcptOtherMode": "",
+        "GrossProfit": "",
+        "Expenses": "",
+        "NetProfit": "",
+        "GrossReceiptPrf": "",
+        "GrsRcptAccPayeeOrBankModePrf": "",
+        "GrsRcptOtherModePrf": "",
+        "GrossProfitPrf": "",
+        "ExpensesPrf": "",
+        "NetProfitPrf": "",
+        "TotBusinessProfession": ""
+      },
+      "TurnverFrmSpecActivity": "",
+      "GrossProfit": "",
+      "Expenditure": "",
+      "NetIncomeFrmSpecActivity": ""
+    },
+    "NewTaxRegime": "N",
+    "Schedule80P": {
+      "Sec80P2aiCode": "",
+      "Sec80P2aiiCode": "",
+      "Sec80P2aiiiCode": "",
+      "Sec80P2aivCode": "",
+      "Sec80P2avCode": "",
+      "Sec80P2aviCode": "",
+      "Sec80P2aviiCode": "",
+      "Sec80P2bCode": "",
+      "Sec80P2ciCode": "",
+      "Sec80P2ciiCode": "",
+      "Sec80P2dCode": "",
+      "Sec80P2eCode": "",
+      "Sec80P2fCode": ""
+    },
+    "ProjectOrInstDtlsFlg": "",
+    "ProjectOrInstDtls": [
+      {
+        "NameOfProjectOrInst": "",
+        "ActivityNature": "",
+        "ClassificationCode": ""
+      }
+    ],
+    "RegApprUnderITADtls": [
+      {
+        "SectionRegistered": "",
+        "RegSecExmpClaimed": "",
+        "RegApprovalDate": "",
+        "ApprovalRegistrationNo": "",
+        "ApprovingAuthority": "",
+        "EffectiveDate": ""
+      }
+    ],
+    "RegApprUnderOthITADtls": [
+      {
+        "LawRegistered": "",
+        "RegApprDate": "",
+        "ApprovalRegistrationNo": "",
+        "ApprovingAuthority": "",
+        "EffectiveDate": ""
+      }
+    ],
+    "ScheduleOA": {
+      "IncUnHeadBPFlag": "",
+      "NatOfBus": [
+        {
+          "NatureOfBusiness": [
+            {
+              "Code": "",
+              "TradeName1": "",
+              "TradeName2": "",
+              "TradeName3": "",
+              "Description": ""
+            }
+          ]
+        }
+      ],
+      "NumberOfBranches": "",
+      "MethodOfAcct": "",
+      "MethodOfValClgStk": {
+        "ValRawMaterial": "",
+        "ValFinishedGoods": "",
+        "ChngStockValMetFlg": "",
+        "EffectOnPL": "",
+        "DecProOrIncLossUs145A": ""
+      }
+    },
+    "totalNumOfMonths": 8
+  },
+  "form24q": {
+    "allwncExemptUs10DtlsType": [
+      {
+        "salNatureDesc": "10(5)",
+        "salOthAmount": 5000
+      }
+    ],
+    "usrDeductUndChapVIAType": {
+      "section80C": 80000,
+      "section80CCC": 50000,
+      "section80CCD1B": 50000,
+      "section80E": 20000,
+      "section80CCDEmployeeOrSE": 20000,
+      "section80CCDEmployer": 20000,
+      "section80D": 20000,
+      "totalChapVIADeductions": 230000,
+      "section80DHealthInsPremium": {
+        "healthInsurancePremium": "1",
+        "sec80DHealthInsurancePremiumUsr": 20000,
+        "medicalExpenditure": "2",
+        "sec80DMedicalExpenditureUsr": 2000,
+        "preventiveHealthCheckUp": "2",
+        "sec80DPreventiveHealthCheckUpUsr": 3000
+      },
+      "section80EE": 10000,
+      "section80EEA": 10000,
+      "section80EEB": 10000,
+      "section80GG": 10000,
+      "section80GGC": 10000,
+      "section80TTA": 10000,
+      "section80TTB": 10000,
+      "section80DD": 125000,
+      "section80DDUsrType": "2",
+      "section80DDB": 7000,
+      "section80DDBUsrType": "1",
+      "section80U": 125000,
+      "section80UUsrType": "2",
+      "section80G": 12000
+    },
+    "taxComputation": {
+      "section89": 80000
+    },
+    "incomeDeductions": {
+      "salary": 2000000,
+      "perquisitesValue": 15000,
+      "deductionUs16Ia": 20000,
+      "entertainmentAlw16Ii": 5000,
+      "professionalTaxUs16Iii": 5000,
+      "totalIncomeOfHP": 10000,
+      "totalIncomeChargeableUnHP": 3000,
+      "profitsInSalary": 10000
+    },
+    "salaries": {
+      "salary": [
+        {
+          "tanOfEmployer": "HYDS03028F",
+          "nameOfEmployer": "GUI",
+          "natOfEmployment": "CGOV",
+          "addressDetail": {
+            "addDetail": "ABC",
+            "cityOrTownOrDistrict": "Visakhapatnam",
+            "stateCode": "36",
+            "pinCode": 530026,
+            "zipCode": 578907
+          },
+          "salarys": {
+            "grossSalary": 2000000,
+            "salary": 1500000,
+            "natureOfSalary": {
+              "othersIncDtls": [
+                {
+                  "natureDesc": "1",
+                  "othNatOfInc": "ABC",
+                  "othAmount": 1000000
+                }
+              ]
+            },
+            "valueOfPerquisites": 200000,
+            "natureOfPerquisites": {
+              "othersIncDtls": [
+                {
+                  "natureDesc": "3",
+                  "othNatOfInc": "abc",
+                  "othAmount": 100000
+                }
+              ]
+            },
+            "profitsinLieuOfSalary": 300000,
+            "natureOfProfitInLieuOfSalary": {
+              "othersIncDtls": [
+                {
+                  "natureDesc": "3",
+                  "othNatOfInc": "ab",
+                  "othAmount": 300000
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "scheduleOS": {
+      "incOthThanOwnRaceHorse": {
+        "dividendGross": 5000,
+        "othersInc": {
+          "OthersIncDtls": [
+            {
+              "othNatOfInc": "asdfx",
+              "othAmount": 10000
+            }
+          ]
+        }
+      }
+    },
+    "isActive": 1,
+    "intrstFrmSavingBank": 10000,
+    "familyPension": 15000,
+    "TotalAllwncExemptUs10": 10000,
+    "lessAllowances": 35000,
+    "schedule80G": {
+      "TotalDonationsUs80G": ""
+    },
+    "form24qTimestamp": "",
+    "dedDetId24Q": "",
+    "schedule80D": {
+      "Sec80DSelfFamSrCtznHealth": {
+        "EligibleAmountOfDedn": ""
+      }
+    },
+    "PensionerFlag": ""
+  },
+  "bankAccountDtls": [
+    {
+      "addtnlBankDetails": [
+        {
+          "bankName": "Axis Bank",
+          "bankAccountNo": 767693,
+          "ifsccode": "UTIB0002766",
+          "useForRefund": true
+        }
+      ],
+      "bankDtlsFlag": "Y"
+    }
+  ],
+  "verification": {
+    "declaration": {
+      "assesseeVerName": "Ankit Das Gupta",
+      "fatherName": "Praneeth Gupta",
+      "assesseeVerPAN": "BURPG1234P"
+    },
+    "repIsPresent": "false",
+    "capacity": "S",
+    "repCapacity": "G",
+    "optionType": "",
+    "startDate": "",
+    "endDate": ""
+  },
+  "incDeductionsOthIncCPC": [
+    {
+      "othSrcNatureDesc": "TAX",
+      "othSrcOthAmount": 10000,
+      "itrAy": ""
+    }
+  ],
+  "assesseeRep": {
+    "repPAN": "JDKPH5678P",
+    "repName": "Bhavana",
+    "repCapacity": "O",
+    "repAddress": "Secunderabad",
+    "aadhaarCardNo": "131313131313",
+    "optionType": "",
+    "startDate": "",
+    "endDate": ""
+  },
+  "otherSourceIncome": [
+    {
+      "othSrcNatureDesc": "SAV",
+      "othSrcOthAmount": 10000
+    }
+  ],
+  "filingStatus": {
+    "returnFileSec": "18",
+    "receiptNo": "123456789123456",
+    "origRetFiledDate": "2023-04-02",
+    "noticeDateUnderSec": "2023-04-02",
+    "uniqueNo": 398309901,
+    "businessTrustFlag": "",
+    "invstmntFundRefrdSec115UB": "",
+    "residentialStatus": "RES",
+    "section115BA": "",
+    "DepAmtAggAmtExcd1CrPrYrFlg": "",
+    "SeventhProvisio139": "",
+    "OptingNewTaxRegime": 1,
+    "AmtSeventhProvisio139i": "",
+    "ayOptedInForm10IF": "",
+    "form10IFDate": "2022-04-20",
+    "form10IFAckNo": 12345,
+    "OptingNewTaxRegimeForm10IF": "",
+    "clauseiv7provisio139i": "Y",
+    "clauseiv7provisio139iDtls": [
+      {
+        "clauseiv7provisio139iNature": "2",
+        "clauseiv7provisio139iAmount": 12343456789098
+      }
+    ],
+    "NewTaxRegime": "Y",
+    "AYOptedIn": "2021-22",
+    "NewForm10IEDate": "2022-04-01",
+    "NewForm10IEAckNo": "134567890234567",
+    "OldTaxRegime": "N",
+    "AYOptedOut": "2022-23",
+    "OldForm10IEDate": "2022-04-02",
+    "OldForm10IEAckNo": "123456789012345",
+    "Form10IEDate": "2022-04-03",
+    "Form10IEAckNo": "123456789012347"
+  },
+  "form67": {
+    "scheduleFSI": {
+      "scheduleFSIDtls": [
+        {
+          "countryCode": "93",
+          "incFromSal": {
+            "incFrmOutsideInd": 7000,
+            "taxPaidOutsideInd": 3000,
+            "taxPayableinInd": 1000,
+            "dtaaReliefUs90Or90A": "A123G7383782HJUI"
+          },
+          "incFromHP": {
+            "incFrmOutsideInd": 9000,
+            "taxPaidOutsideInd": 8000,
+            "taxPayableinInd": 3000,
+            "dtaaReliefUs90Or90A": "Z123G7383782JUHG"
+          },
+          "incCapGain": {
+            "incFrmOutsideInd": 4000,
+            "taxPaidOutsideInd": 5000,
+            "taxPayableinInd": 7000,
+            "dtaaReliefUs90Or90A": "L123G7383782HJUI"
+          },
+          "incOthSrc": {
+            "incFrmOutsideInd": 3000,
+            "taxPaidOutsideInd": 5000,
+            "taxPayableinInd": 7000,
+            "dtaaReliefUs90Or90A": "K123G7383782HJUI"
+          },
+          "incFromBusiness": {
+            "incFrmOutsideInd": 9000,
+            "taxPaidOutsideInd": 5000,
+            "taxPayableinInd": 7000,
+            "dtaaReliefUs90Or90A": "P123G7383782HJUI"
+          },
+          "acctYrStartDate": "2017-09-23",
+          "acctYrEndDate": "2015-07-12",
+          "taxIdentificationNo": 5678123456789090
+        }
+      ]
+    }
+  },
+  "formCCBA": {
+    "Schedule80IB": {
+      "deductMultiplexUs80IB7AUnd": {
+        "sch80DeductAmtDtls": [
+          {
+            "deductAmountSec80": 15000
+          }
+        ]
+      }
+    }
+  },
+  "formCCBB": {
+    "Schedule80IB": {
+      "deductConvCentUs80IB7BUnd": {
+        "sch80DeductAmtDtls": [
+          {
+            "deductAmountSec80": 15000
+          }
+        ]
+      }
+    }
+  },
+  "formCCBC": {
+    "Schedule80IB": {
+      "deductRurHospUs80IB11BUnd": {
+        "sch80DeductAmtDtls": [
+          {
+            "deductAmountSec80": 15000
+          }
+        ]
+      }
+    }
+  },
+  "formCCBD": {
+    "Schedule80IB": {
+      "deductHospAnyAreaUs80IB11CUnd": {
+        "sch80DeductAmtDtls": [
+          {
+            "deductAmountSec80": 15000
+          }
+        ]
+      }
+    }
+  },
+  "form3CD": {
+    "PartABS": {
+      "FundSrc": {
+        "PropFund": {
+          "ResrNSurp": {
+            "RevResr": 3783,
+            "CapResr": 3839,
+            "StatResr": 3289,
+            "OthResr": 3822,
+            "CreditBalOfPLAccount": ""
+          }
+        },
+        "LoanFunds": {
+          "SecrLoan": {
+            "ForeignCurrLoan": 10000,
+            "RupeeLoan": {
+              "FrmBank": 5000,
+              "FrmOthrs": 10004,
+              "FrmPersonSpcfdUs40A2B": ""
+            }
+          },
+          "UnsecrLoan": {
+            "FrmBank": 15000,
+            "FrmOthrs": 7500,
+            "ForeignCurrencyLoans": "",
+            "FrmPersonSpcfdUs40A2B": ""
+          }
+        },
+        "DeferredTax": 5000,
+        "PartnerOrMemberFund": {
+          "PartnerOrMemberCap": ""
+        },
+        "Advances": {
+          "FrmPersonSpcfdUs40A2B": "",
+          "FrmOthers": ""
+        }
+      },
+      "FundApply": {
+        "FixedAsset": {
+          "GrossBlock": 5346,
+          "Depreciation": 7838,
+          "CapWrkProg": 9327
+        },
+        "Investments": {
+          "LongTermInv": {
+            "GovtOthSecQuoted": 6373,
+            "GovOthSecUnQoted": 8373,
+            "InvInProperty": "",
+            "EquityInstruments": {
+              "ListedEquities": "",
+              "UnListedEquities": ""
+            },
+            "PreferenceShares": "",
+            "GovtOrTrustSecurities": "",
+            "DebenturesOrBonds": "",
+            "MutualFunds": "",
+            "Others": ""
+          },
+          "TradeInv": {
+            "EquityShares": 6728,
+            "PreferShares": 2892,
+            "Debenture": 7828
+          },
+          "ShortTermInv": {
+            "EquityInstruments": {
+              "ListedEquities": "",
+              "UnListedEquities": ""
+            },
+            "PreferenceShares": "",
+            "GovtOrTrustSecurities": "",
+            "DebenturesOrBonds": "",
+            "MutualFunds": "",
+            "Others": ""
+          }
+        },
+        "CurrAssetLoanAdv": {
+          "CurrAsset": {
+            "Inventories": {
+              "StoresConsumables": 7383,
+              "RawMatl": 2782,
+              "StkInProcess": 7362,
+              "FinOrTradGood": 7262,
+              "WorkInProgress": "",
+              "StkInTrade": "",
+              "LooseTools": "",
+              "Others": ""
+            },
+            "SndryDebtors": 2738,
+            "CashOrBankBal": {
+              "CashinHand": 2739,
+              "BankBal": 8392,
+              "Others": ""
+            },
+            "OthCurrAsset": 9373,
+            "SundryDebtorDtls": {
+              "OutstandindMorethanOneYr": "",
+              "Others": ""
+            }
+          },
+          "LoanAdv": {
+            "AdvRecoverable": 2739,
+            "Deposits": 8393,
+            "BalWithRevAuth": 3892,
+            "LoanAdvIncluded": {
+              "PurposeOFBusOrProf": "",
+              "NotForPurposeOFBusOrProf": ""
+            }
+          },
+          "CurrLiabilitiesProv": {
+            "CurrLiabilities": {
+              "SundryCred": 3828,
+              "LiabForLeasedAsset": 3738,
+              "AccrIntonLeasedAsset": 8272,
+              "AccrIntNotDue": 9272,
+              "IncRecvdInAdv": "",
+              "OtherPayables": "",
+              "OutstandindMorethanOneYr": "",
+              "Others": ""
+            },
+            "Provisions": {
+              "ItProvision": 2783,
+              "ElSuperAnnGratProvision": 2892,
+              "OthProvision": 9287,
+              "WealthProvision": 5678
+            }
+          }
+        },
+        "MiscAdjust": {
+          "MiscExpndr": 7383,
+          "DefTaxAsset": 9383,
+          "AccumaltedLosses": 3792
+        }
+      }
+    },
+    "ManufacturingAccount": {
+      "OpeningInventory": {
+        "OpngStckRawMat": 6782,
+        "OpngStckWrkinPrgrs": 7263
+      },
+      "ModeOfPaymentWiseDetail": {
+        "Cash": 3984,
+        "OthThanCash": 7383
+      },
+      "PurGdsWiseDetails": {
+        "GoodsServiceWiseDetail": [
+          {
+            "HSNOrSACCode": 134565,
+            "Amount": 10000,
+            "GdsOrSrcName": "avc"
+          }
+        ]
+      },
+      "PurGdsPartyWiseDetails": {
+        "PartyWiseDetails": [
+          {
+            "NameofParty": "PQRS",
+            "PANofParty": "ASFPD1234D",
+            "AadhaarofParty": "121212121212",
+            "Amount": 12345
+          }
+        ],
+        "OtherPartyWiseAmt": 26537
+      },
+      "DirectWages": 6789,
+      "CarriageInward": 7890,
+      "PowerAndFuel": 5000,
+      "OthDirectExpenses": 12000,
+      "IndirectWages": 10000,
+      "FactoryRentAndRates": 9000,
+      "FactoryInsurance": 9000,
+      "FactoryFuelAndPower": 7000,
+      "FactoryGeneralExpenses": 5000,
+      "DeprctnOfFactoryMachinery": 6000,
+      "ClosingStock": {
+        "ClsngStckRawMaterial": 8393,
+        "ClsngStckWrkInPrgrs": 2738
+      },
+      "Purchases": 12345
+    },
+    "TradingAccount": {
+      "SaleOfGoods": 7839,
+      "SalGdsWiseDetails": {
+        "GoodsServiceWiseDetail": [
+          {
+            "HSNOrSACCode": 134565,
+            "Amount": 10000,
+            "GdsOrSrcName": "avc"
+          }
+        ],
+        "OtherGoodsWiseAmt": 15000,
+        "ModeOfPaymentWiseDetail": {
+          "Cash": 3984,
+          "OthThanCash": 7383
+        }
+      },
+      "SalGdsPartyWiseDetails": {
+        "PartyWiseDetails": [
+          {
+            "NameofParty": "PQRS",
+            "PANofParty": "ASFPD1234D",
+            "AadhaarofParty": "121212121212",
+            "Amount": 12345
+          }
+        ],
+        "OtherPartyWiseAmt": 10000
+      },
+      "SaleOfServices": 13000,
+      "SalSvcWiseDetails": {
+        "GoodsServiceWiseDetail": [
+          {
+            "HSNOrSACCode": 134565,
+            "Amount": 10000,
+            "GdsOrSrcName": "avc"
+          }
+        ],
+        "OtherServiceWiseAmt": 10000,
+        "ModeOfPaymentWiseDetail": {
+          "Cash": 3984,
+          "OthThanCash": 7383
+        }
+      },
+      "SalSvcPartyWiseDetails": {
+        "PartyWiseDetails": [
+          {
+            "NameofParty": "PQRS",
+            "PANofParty": "ASFPD1234D",
+            "AadhaarofParty": "121212121212",
+            "Amount": 12345
+          }
+        ],
+        "OtherPartyWiseAmt": 5000
+      },
+      "OtherOperatingRevenueDtls": [
+        {
+          "OperatingRevenueName": "fjfjnv",
+          "OperatingRevenueAmt": 10000
+        }
+      ],
+      "ExciseCustomsVAT": {
+        "CustomDuty": 7000,
+        "CounterVailDuty": 6872,
+        "SplAddDuty": 2738,
+        "UnionExciseDuty": 6785,
+        "ServiceTax": 8263,
+        "VaTorSaleTax": 8373,
+        "CentralGoodServiceTax": 6435,
+        "StateGoodServiceTax": 7383,
+        "IntegratedGoodServiceTax": 7328,
+        "UnionTerrGoodServiceTax": 9273,
+        "OthDutyTaxCess": 8393
+      },
+      "ClsngStckOfFinishedStcks": 7484,
+      "OpngStckOfFinishedStcks": 8937,
+      "Purchases": 5674,
+      "CarriageInward": 7654,
+      "PowerAndFuel": 7960,
+      "DirectExpenses": 7654,
+      "OtherIncDtls": [
+        {
+          "NatureOfIncome": "dfjnf",
+          "Amount": 26743
+        }
+      ],
+      "DutyTaxPay": {
+        "ExciseCustomsVAT": {
+          "CustomDuty": 7000,
+          "CounterVailDuty": 6872,
+          "SplAddDuty": 2738,
+          "UnionExciseDuty": 6785,
+          "ServiceTax": 8263,
+          "VaTorSaleTax": 8373,
+          "CentralGoodServiceTax": 6435,
+          "StateGoodServiceTax": 7383,
+          "IntegratedGoodServiceTax": 7328,
+          "UnionTerrGoodServiceTax": 9273,
+          "OthDutyTaxCess": 8393
+        }
+      },
+      "GrossRcptFromProfession": "",
+      "IntradayTradingTurnOver": "",
+      "IntradayTradingIncome": ""
+    },
+    "PartAPL": {
+      "CreditsToPL": {
+        "OthIncome": {
+          "RentInc": 5367,
+          "Comissions": 2728,
+          "Dividends": 7843,
+          "InterestInc": 2637,
+          "ProfitOnSaleFixedAsset": 2833,
+          "ProfitOnInvChrSTT": 8443,
+          "ProfitOnOthInv": 5463,
+          "ProfitOnCurrFluct": 4832,
+          "ProfitOnCnvInvntryToCapAsst": 4763,
+          "ProfitOnAgriIncome": 3732,
+          "OtherIncDtls": [
+            {
+              "NatureOfIncome": "business",
+              "Amount": 36382
+            }
+          ]
+        }
+      },
+      "DebitsToPL": {
+        "Freight": 6437,
+        "ConsumptionOfStores": 7382,
+        "PowerFuel": 7348,
+        "RepairsBldg": 8362,
+        "RepairMach": 6382,
+        "EmployeeComp": {
+          "SalsWages": 8923,
+          "Bonus": 8373,
+          "MedExpReimb": 1802,
+          "LeaveEncash": 8372,
+          "LeaveTravelBenft": 9000,
+          "ContToSuperAnnFund": 10000,
+          "ContToPF": 5000,
+          "ContToGratFund": 7383,
+          "ContToOthFund": 8393,
+          "OthEmpBenftExpdr": 8722
+        },
+        "AnyCompPaidToNonRes": "Y",
+        "AmtPaidToNonRes": 7890,
+        "Insurances": {
+          "MedInsur": 3673,
+          "LifeInsur": 5879,
+          "KeyManInsur": 7282,
+          "OthInsur": 8392
+        },
+        "StaffWelfareExp": 3638,
+        "Entertainment": 8272,
+        "Hospitality": 8672,
+        "Conference": 8292,
+        "SalePromoExp": 9281,
+        "Advertisement": 5683,
+        "CommissionExpdrDtls": {
+          "NonResOtherCompany": 10000,
+          "Others": 7000,
+          "NonResCommAmtGt1Lakh": [
+            {
+              "Name": "ABSCDF",
+              "Amount": 7000
+            }
+          ],
+          "NonResCommAmtLt1Lakh": 7000,
+          "OtherCommAmtGt1Lakh": [
+            {
+              "Name": "XYZA",
+              "PAN": "SDFGH1234F",
+              "AadhaarCardNo": "121212121212",
+              "Amount": 7890
+            }
+          ],
+          "OtherCommAmtLt1Lakh": 9485
+        },
+        "RoyalityDtls": {
+          "NonResOtherCompany": 7484,
+          "Others": 6478
+        },
+        "ProfessionalConstDtls": {
+          "NonResOtherCompany": 7383,
+          "Others": 6238
+        },
+        "HotelBoardLodge": 6734,
+        "TravelExp": 6743,
+        "ForeignTravelExp": 9273,
+        "ConveyanceExp": 8393,
+        "TelephoneExp": 9273,
+        "GuestHouseExp": 6387,
+        "ClubExp": 7263,
+        "FestivalCelebExp": 5367,
+        "Scholarship": 9338,
+        "Gift": 10000,
+        "Donation": 3733,
+        "RatesTaxesPays": {
+          "ExciseCustomsVAT": {
+            "CustomDuty": 4838,
+            "CounterVailDuty": 7438,
+            "SplAddDuty": 8393,
+            "Cess": 7656,
+            "UnionExciseDuty": 4748,
+            "ServiceTax": 4843,
+            "CentralGoodServiceTax": 8239,
+            "StateGoodServiceTax": 7493,
+            "IntegratedGoodServiceTax": 7463,
+            "UnionTerrGoodServiceTax": 7393,
+            "OthDutyTaxCess": 9032,
+            "VatorSaleTax": 5678
+          }
+        },
+        "AuditFee": 5436,
+        "OtherExpensesDtls": [
+          {
+            "ExpenseNature": "eedhgj",
+            "Amount": 6373
+          }
+        ],
+        "BadDebtDtls": {
+          "BadDebtAmtDtls": [
+            {
+              "Pan": "AAAPL1234C",
+              "AadhaarCardNo": "121212121212",
+              "Amount": 5362
+            }
+          ],
+          "OthersPANNotAvlblDtl": [
+            {
+              "Name": "abcd",
+              "FlatDoorBlockNumber": 408,
+              "PremisesBuildingName": "Susri towers",
+              "RoadStreetPostOffice": "Hgsj",
+              "AreaLocality": "hjedu",
+              "TownCityDistrict": "Hyderabad",
+              "StateCode": "01",
+              "CountryCode": "91",
+              "PinCode": 728268,
+              "ZipCode": 828282,
+              "Amount": 7398
+            }
+          ],
+          "OthersAmtLt1Lakh": 17282
+        },
+        "ProvForBadDoubtDebt": 9808,
+        "OthProvisionsExpdr": 7890,
+        "InterestExpdrtDtls": {
+          "NonResOtherCompany": 6282,
+          "Others": 8927
+        },
+        "DepreciationAmort": 7236,
+        "RentAmtLt1Lakh": 7363,
+        "DebitPlAcnt": {
+          "RentExpdr": 8000,
+          "CommissionExpdrDtls": {
+            "NonResOtherCompany": 10000,
+            "Others": 7000
+          }
+        },
+        "RentAmtGt1Lakh": [
+          {
+            "Name": "AB",
+            "PAN": "GHJKL5678H",
+            "AadhaarCardNo": "121212121212",
+            "Amount": 10000
+          }
+        ]
+      },
+      "TaxProvAppr": {
+        "ProvForCurrTax": 7883,
+        "ProvDefTax": 9282,
+        "ProfitAfterTax": 8292,
+        "BalBFPrevYr": 6272,
+        "AmtAvlAppr": 8372,
+        "TrfToReserves": 7282,
+        "ProprietorAccBalTrf": 8292
+      },
+      "NatOfBus44AD": [
+        {
+          "NameOfBusiness": "ABC",
+          "CodeAD": "01001",
+          "Description": "Growing and manufacturing of tea"
+        }
+      ],
+      "PersumptiveInc44AD": {
+        "GrsTrnOverOrReceipt": 6373,
+        "GrsTrnOverBank": 10000,
+        "GrsTrnOverAnyOthMode": 5000,
+        "TotPersumptiveInc44AD": 7933,
+        "PersumptiveInc44AD6Per": 9237,
+        "PersumptiveInc44AD8Per": 9309
+      },
+      "NatOfBus44ADA": [
+        {
+          "NameOfBusiness": "Consultancy",
+          "CodeADA": "14002",
+          "Description": "Other software consultancy"
+        }
+      ],
+      "PersumptiveInc44ADA": {
+        "grsReceipt": "7892",
+        "totPersumptiveInc44ADA": 8393
+      },
+      "NatOfBus44AE": [
+        {
+          "nameOfBusiness": "abc",
+          "codeAE": "11008",
+          "description": "Freight transport by road"
+        }
+      ],
+      "GoodsDtlsUs44AE": [
+        {
+          "regNumberGoodsCarriage": 637387,
+          "tonnageCapacity": 30,
+          "holdingPeriod": "07",
+          "ownedLeasedHiredFlag": "LEASE"
+        }
+      ],
+      "TotalNumOfMonths": 12,
+      "TotalPrsumptvIncUs44EGoods": 25000,
+      "TotalPrsumptvIncUs44E": 15000,
+      "NoBooksOfAccPL": {
+        "GrossReceipt": 8292,
+        "GrsRcptAccPayeeOrBankMode": 5000,
+        "GrsRcptOtherMode": 10000,
+        "GrossProfit": 7000,
+        "Expenses": 5000,
+        "NetProfit": 10000,
+        "GrossReceiptPrf": 8000,
+        "GrsRcptAccPayeeOrBankModePrf": 9000,
+        "GrsRcptOtherModePrf": 9303,
+        "GrossProfitPrf": 9202,
+        "ExpensesPrf": 8292,
+        "NetProfitPrf": "09282",
+        "TotBusinessProfession": 9272
+      },
+      "TurnverFrmSpecActivity": 6789,
+      "GrossProfit": 7894,
+      "Expenditure": 9474,
+      "NetIncomeFrmSpecActivity": 8364
+    },
+    "PartAOI": {
+      "MethodOfAcct": "MERC",
+      "ChangeInAcctMethFlg": "N",
+      "MethodOfValClgStk": {
+        "ValRawMaterial": 3,
+        "ValFinishedGoods": 2,
+        "ChngStockValMetFlg": "Y",
+        "EffectOnPL": 7000,
+        "DecProOrIncLossUs145A": 5000
+      },
+      "NoCredToPLAmt": {
+        "Section28Items": 5000,
+        "ProformaCreditsDue": 7000,
+        "PrevYrEscalClaim": 10000,
+        "OthItemInc": 9000,
+        "CapReceipt": 5000
+      },
+      "AmtDisallUs36": {
+        "StkInsurPrem": 5000,
+        "EmpHealthInsurPrem": 10000,
+        "EmpBonusCommSum": 15000,
+        "IntOnBorrCap": 7000,
+        "ZeroCoupBondDisc": 9000,
+        "RecogPFContribAmt": 6000,
+        "AppSuperAnnFundAmt": 8000,
+        "PensionSchemeSec80CCD": 7000,
+        "AppGratFundAmt": 9000,
+        "OthFundAmt": 6000,
+        "BadDebtDoubtAmt": 5000,
+        "BadDebtDoubtProvn": 10000,
+        "SpecResrvTranfr": 7000,
+        "FamPlanPromoExp": 9000,
+        "EmpContributionCredits": 8000,
+        "SecuritiesPaidAmt": 15000,
+        "MrktLossOthExpLossICDS": 14000,
+        "OthDisallowances": 11000,
+        "TotEmpDepInInd": 5000,
+        "TotEmpDepOutInd": 12000,
+        "TotEmpDep": 50000
+      },
+      "AmtDisallUs37": {
+        "CapitalNatureExp": 5000,
+        "PersonalExp": 10000,
+        "BusOrProfessnExp": 15000,
+        "PoliticPartyExp": 10000,
+        "LawVoilatPenalExp": 7000,
+        "OthPenalFineExp": 5000,
+        "OffenceExp": 9000,
+        "ContigentLiability": 11000,
+        "OthAmtNotAllowUs37": 13000,
+        "TotAmtDisallUs37": 25000
+      },
+      "AmtDisallUs40": {
+        "NonCompChapXVIIBAmt": 1000,
+        "NonComp40AiiChapXVIIBAmt": 2000,
+        "NonComp40AibChapXVIIBAmt": 3000,
+        "NonComp40AiiiChapXVIIBAmt": 5000,
+        "TaxAmtOnProfits": 7000,
+        "WtAmt": 9000,
+        "RolyatyOrServiceFee": 5000,
+        "IntSalBonPartner": 10000,
+        "AmtDisallUs40PyNowAll": 7000,
+        "FBTAmt": 3394,
+        "FundAmtiv": 7839,
+        "EmpPreqTax": 6784,
+        "Wtamt": 9287
+      },
+      "AmtDisallUs40A": {
+        "AmtPaidUs40A3": 3830,
+        "ProvPmtGrat": "03738",
+        "ContToSetupTrust": 15789,
+        "OthDisallow": 9373
+      },
+      "AmtDisallUs43BPyNowAll": {
+        "AmtUs43B": {
+          "TaxDutyCesAmt": 8000,
+          "ContToEmpPFSFGF": 6782,
+          "EmpBonusComm": 9827,
+          "IntPayaleToFI": 4256,
+          "IntPayaleToFINBFC": 8728,
+          "IntPayaleToFISchBank": 6782,
+          "LeaveEncashPayable": 9282,
+          "RailwayAssetsPayable": 2689
+        }
+      },
+      "AmtDisall43B": {
+        "AmtUs43B": {
+          "TaxDutyCesAmt": 8000,
+          "ContToEmpPFSFGF": 6782,
+          "EmpBonusComm": 9827,
+          "IntPayaleToFI": 4256,
+          "IntPayaleToFINBFC": 8728,
+          "IntPayaleToFISchBank": 6782,
+          "LeaveEncashPayable": 9282,
+          "RailwayAssetsPayable": 2689
+        }
+      },
+      "AmtExciseCustomsVATOutstanding": {
+        "ExciseCustomsVAT": {
+          "UnionExciseDuty": 6785,
+          "ServiceTax": 8263,
+          "Cess": 7656,
+          "CentralGoodServiceTax": 6435,
+          "StateGoodServiceTax": 7383,
+          "IntegratedGoodServiceTax": 7328,
+          "UnionTerrGoodServiceTax": 9273,
+          "OthDutyTaxCess": 8393,
+          "TotExciseCustomsVAT": 6778,
+          "VatorSaleTax": 5678
+        }
+      },
+      "AmountOfExpDisAllwUs14A": 7898,
+      "PLAcctPriorPrdExp": 6787,
+      "IntDisAllowUs23MSME": 7898,
+      "DeemedIncome": 9098,
+      "ProfitUs41": 9878,
+      "DeemedIncomeUs43CA": 5786,
+      "PrimaryAdjUs92CE1": 9899,
+      "IntIncNotRepUs92CE2": 8788,
+      "Exercise92CE2AFlg": "YES",
+      "AvoidAgreeUs96PrYrFlg": "YES",
+      "PartyDetails": {
+        "AsstYr": "2001",
+        "NameofParty": "asdd",
+        "PANofParty": "AAAPL1234C",
+        "AadhaarofParty": "121212121212",
+        "AmtTaxBenefitPrvYr": 1000
+      },
+      "PLAcctPriorPrdInc": 7890,
+      "PrimaryAdjUs92CE2AAmtNotRep": 9090,
+      "DeemedProfUs33AB": 8790,
+      "DeemedProfUs33ABA": 11234,
+      "ProfTaxAmtUs41": 12567,
+      "DeemedProfUs33AC": 54668,
+      "PriorAmtIncCrDrPL": 78899,
+      "Amount": "",
+      "ScheduleTPSAFlg": "Y"
+    },
+    "PartAQD": {
+      "TradingConcern": {
+        "QuantitDet": [
+          {
+            "ItemName": "qrs",
+            "UnitOfMeasure": 101,
+            "OpeningStock": 1203,
+            "PurchaseQty": 120,
+            "SaleQty": 190,
+            "ClgStock": 1000,
+            "AnyShortExces": 100
+          }
+        ]
+      },
+      "ManfactrConcern": {
+        "RawMaterial": {
+          "QuantitDet": [
+            {
+              "ItemName": "qwr",
+              "UnitOfMeasure": 101,
+              "OpeningStock": 1200,
+              "PurchaseQty": 5000,
+              "PrevYrConsum": 8000,
+              "SaleQty": 9000,
+              "ClgStock": 8000,
+              "YldFinisProd": 3000,
+              "PercentYld": 7000,
+              "AnyShortExces": 5000
+            }
+          ]
+        },
+        "FinishrByProd": {
+          "QuantitDet": [
+            {
+              "ItemName": "vbn",
+              "UnitOfMeasure": 101,
+              "OpeningStock": 1200,
+              "PurchaseQty": 5000,
+              "PrevyrManfact": 8000,
+              "SaleQty": 9000,
+              "ClgStock": 8000,
+              "AnyShortExces": 5000
+            }
+          ]
+        }
+      }
+    },
+    "ScheduleDPM": {
+      "PlantMachinery": {
+        "Rate15": {
+          "DepreciationDetail": {
+            "WdvfirstDay": 15000,
+            "AdditionsGrThan180Days": 5000,
+            "RealizationTotalPeriod": 7000,
+            "AdditionsLessThan180Days": 9000,
+            "RealizationPeriodLessThan180Days": 7000,
+            "AddlnDeprOnGT180DayAdditions": 3000,
+            "AddlnDeprOnLessThan180DayAdditions": 6000,
+            "AddlnDeprOnAssetLessThan180Days": 70000,
+            "DepDisAllowUs382": 9000,
+            "ProportionateAggDepreciation": 10000,
+            "ExpdrOnTrforSaleAsset": 12000,
+            "CapGainUs50": 8907,
+            "AdjustAccTax115BADAmt": "",
+            "AdjustAccTax115BACAmt": ""
+          }
+        },
+        "Rate30": {
+          "DepreciationDetail": {
+            "WdvfirstDay": 15000,
+            "AdditionsGrThan180Days": 5000,
+            "RealizationTotalPeriod": 7000,
+            "AdditionsLessThan180Days": 9000,
+            "RealizationPeriodLessThan180Days": 7000,
+            "AddlnDeprOnGT180DayAdditions": 3000,
+            "AddlnDeprOnLessThan180DayAdditions": 6000,
+            "AddlnDeprOnAssetLessThan180Days": 70000,
+            "DepDisAllowUs382": 9000,
+            "ProportionateAggDepreciation": 10000,
+            "ExpdrOnTrforSaleAsset": 12000,
+            "CapGainUs50": 8907,
+            "AdjustAccTax115BADAmt": "",
+            "AdjustAccTax115BACAmt": ""
+          }
+        },
+        "Rate40": {
+          "DepreciationDetail": {
+            "WdvfirstDay": 15000,
+            "AdditionsGrThan180Days": 5000,
+            "RealizationTotalPeriod": 7000,
+            "AdditionsLessThan180Days": 9000,
+            "RealizationPeriodLessThan180Days": 7000,
+            "AddlnDeprOnGT180DayAdditions": 3000,
+            "AddlnDeprOnLessThan180DayAdditions": 6000,
+            "AddlnDeprOnAssetLessThan180Days": 70000,
+            "DepDisAllowUs382": 9000,
+            "ProportionateAggDepreciation": 10000,
+            "ExpdrOnTrforSaleAsset": 12000,
+            "CapGainUs50": 8907,
+            "AdjustAccTax115BADAmt": "",
+            "AdjustAccTax115BACAmt": ""
+          }
+        },
+        "Rate45": {
+          "DepreciationDetail": {
+            "WdvfirstDay": 15000,
+            "AdditionsGrThan180Days": 5000,
+            "RealizationTotalPeriod": 7000,
+            "AdditionsLessThan180Days": 9000,
+            "RealizationPeriodLessThan180Days": 7000,
+            "AddlnDeprOnGT180DayAdditions": 3000,
+            "AddlnDeprOnLessThan180DayAdditions": 6000,
+            "AddlnDeprOnAssetLessThan180Days": 70000,
+            "DepDisAllowUs382": 9000,
+            "ProportionateAggDepreciation": 10000,
+            "ExpdrOnTrforSaleAsset": 12000,
+            "CapGainUs50": 8907,
+            "AdjustAccTax115BADAmt": "",
+            "AdjustAccTax115BACAmt": ""
+          }
+        }
+      }
+    },
+    "ScheduleDOA": {
+      "land": {
+        "DepreciationDetail": {
+          "WdvfirstDay": 15000,
+          "WdvlastDay": 7000
+        }
+      },
+      "building": {
+        "Rate5": {
+          "DepreciationDetail": {
+            "WdvfirstDay": 15000,
+            "AdditionsGrThan180Days": 5000,
+            "RealizationTotalPeriod": 7000,
+            "AdditionsLessThan180Days": 9000,
+            "RealizationPeriodLessThan180Days": 7000,
+            "AddlnDeprOnGT180DayAdditions": 3000,
+            "AddlnDeprOnLessThan180DayAdditions": 6000,
+            "AddlnDeprOnAssetLessThan180Days": 70000,
+            "DepDisAllowUs382": 9000,
+            "ProportionateAggDepreciation": 10000,
+            "ExpdrOnTrforSaleAsset": 12000,
+            "CapGainUs50": 8907,
+            "AdjustAccTax115BADAmt": "",
+            "AdjustAccTax115BACAmt": ""
+          }
+        },
+        "Rate10": {
+          "DepreciationDetail": {
+            "WdvfirstDay": 15000,
+            "AdditionsGrThan180Days": 5000,
+            "RealizationTotalPeriod": 7000,
+            "AdditionsLessThan180Days": 9000,
+            "RealizationPeriodLessThan180Days": 7000,
+            "AddlnDeprOnGT180DayAdditions": 3000,
+            "AddlnDeprOnLessThan180DayAdditions": 6000,
+            "AddlnDeprOnAssetLessThan180Days": 70000,
+            "DepDisAllowUs382": 9000,
+            "ProportionateAggDepreciation": 10000,
+            "ExpdrOnTrforSaleAsset": 12000,
+            "CapGainUs50": 8907,
+            "AdjustAccTax115BADAmt": "",
+            "AdjustAccTax115BACAmt": ""
+          }
+        },
+        "Rate40": {
+          "DepreciationDetail": {
+            "WdvfirstDay": 15000,
+            "AdditionsGrThan180Days": 5000,
+            "RealizationTotalPeriod": 7000,
+            "AdditionsLessThan180Days": 9000,
+            "RealizationPeriodLessThan180Days": 7000,
+            "AddlnDeprOnGT180DayAdditions": 3000,
+            "AddlnDeprOnLessThan180DayAdditions": 6000,
+            "AddlnDeprOnAssetLessThan180Days": 70000,
+            "DepDisAllowUs382": 9000,
+            "ProportionateAggDepreciation": 10000,
+            "ExpdrOnTrforSaleAsset": 12000,
+            "CapGainUs50": 8907,
+            "AdjustAccTax115BADAmt": "",
+            "AdjustAccTax115BACAmt": ""
+          }
+        }
+      },
+      "furnitureFittings": {
+        "Rate10": {
+          "DepreciationDetail": {
+            "WdvfirstDay": 15000,
+            "AdditionsGrThan180Days": 5000,
+            "RealizationTotalPeriod": 7000,
+            "AdditionsLessThan180Days": 9000,
+            "RealizationPeriodLessThan180Days": 7000,
+            "AddlnDeprOnGT180DayAdditions": 3000,
+            "AddlnDeprOnLessThan180DayAdditions": 6000,
+            "AddlnDeprOnAssetLessThan180Days": 70000,
+            "DepDisAllowUs382": 9000,
+            "ProportionateAggDepreciation": 10000,
+            "ExpdrOnTrforSaleAsset": 12000,
+            "CapGainUs50": 8907,
+            "AdjustAccTax115BADAmt": "",
+            "AdjustAccTax115BACAmt": ""
+          }
+        }
+      },
+      "intangibleAssets": {
+        "Rate25": {
+          "DepreciationDetail": {
+            "WdvfirstDay": 15000,
+            "AdditionsGrThan180Days": 5000,
+            "RealizationTotalPeriod": 7000,
+            "AdditionsLessThan180Days": 9000,
+            "RealizationPeriodLessThan180Days": 7000,
+            "AddlnDeprOnGT180DayAdditions": 3000,
+            "AddlnDeprOnLessThan180DayAdditions": 6000,
+            "AddlnDeprOnAssetLessThan180Days": 70000,
+            "DepDisAllowUs382": 9000,
+            "ProportionateAggDepreciation": 10000,
+            "ExpdrOnTrforSaleAsset": 12000,
+            "CapGainUs50": 8907,
+            "AdjustAccTax115BADAmt": "",
+            "AdjustAccTax115BACAmt": ""
+          }
+        }
+      },
+      "ships": {
+        "Rate20": {
+          "DepreciationDetail": {
+            "WdvfirstDay": 15000,
+            "AdditionsGrThan180Days": 5000,
+            "RealizationTotalPeriod": 7000,
+            "AdditionsLessThan180Days": 9000,
+            "RealizationPeriodLessThan180Days": 7000,
+            "AddlnDeprOnGT180DayAdditions": 3000,
+            "AddlnDeprOnLessThan180DayAdditions": 6000,
+            "AddlnDeprOnAssetLessThan180Days": 70000,
+            "DepDisAllowUs382": 9000,
+            "ProportionateAggDepreciation": 10000,
+            "ExpdrOnTrforSaleAsset": 12000,
+            "CapGainUs50": 8907,
+            "AdjustAccTax115BADAmt": "",
+            "AdjustAccTax115BACAmt": ""
+          }
+        }
+      }
+    },
+    "ScheduleESR": {
+      "DeductionUs35": {
+        "Section351I": {
+          "DeductUs35": {
+            "AmtDebPL": 5000,
+            "AmtUs35Allowable": 6000,
+            "ExcessAmtOverDebPL": 6726
+          }
+        },
+        "Section351Ii": {
+          "DeductUs35": {
+            "AmtDebPL": 5000,
+            "AmtUs35Allowable": 6000,
+            "ExcessAmtOverDebPL": 6726
+          }
+        },
+        "Section351Iia": {
+          "DeductUs35": {
+            "AmtDebPL": 5000,
+            "AmtUs35Allowable": 6000,
+            "ExcessAmtOverDebPL": 6726
+          }
+        },
+        "Section351Iii": {
+          "DeductUs35": {
+            "AmtDebPL": 5000,
+            "AmtUs35Allowable": 6000,
+            "ExcessAmtOverDebPL": 6726
+          }
+        },
+        "Section351Iv": {
+          "DeductUs35": {
+            "AmtDebPL": 5000,
+            "AmtUs35Allowable": 6000,
+            "ExcessAmtOverDebPL": 6726
+          }
+        },
+        "Section352AA": {
+          "deductUs35": {
+            "AmtDebPL": 8000,
+            "AmtUs35Allowable": 9000,
+            "ExcessAmtOverDebPL": 11000
+          }
+        },
+        "Section352AB": {
+          "deductUs35": {
+            "AmtDebPL": 19000,
+            "AmtUs35Allowable": 15000,
+            "ExcessAmtOverDebPL": 9000
+          }
+        },
+        "Section35CCC": {
+          "DeductUs35": {
+            "AmtDebPL": 5000,
+            "AmtUs35Allowable": 6000,
+            "ExcessAmtOverDebPL": 6726
+          }
+        },
+        "Section35CCD": {
+          "DeductUs35": {
+            "AmtDebPL": 5000,
+            "AmtUs35Allowable": 6000,
+            "ExcessAmtOverDebPL": 6726
+          }
+        },
+        "Section35ABA": {
+          "DeductUs35": {
+            "AmtDebPL": 5000,
+            "AmtUs35Allowable": 6000,
+            "ExcessAmtOverDebPL": 6726
+          }
+        },
+        "Section35ABB": {
+          "DeductUs35": {
+            "AmtDebPL": 5000,
+            "AmtUs35Allowable": 6000,
+            "ExcessAmtOverDebPL": 6726
+          }
+        },
+        "Section35CCA": {
+          "DeductUs35": {
+            "AmtDebPL": 5000,
+            "AmtUs35Allowable": 6000,
+            "ExcessAmtOverDebPL": 6726
+          }
+        },
+        "Section35D": {
+          "DeductUs35": {
+            "AmtDebPL": 5000,
+            "AmtUs35Allowable": 6000,
+            "ExcessAmtOverDebPL": 6726
+          }
+        },
+        "Section35DD": {
+          "DeductUs35": {
+            "AmtDebPL": 5000,
+            "AmtUs35Allowable": 6000,
+            "ExcessAmtOverDebPL": 6726
+          }
+        },
+        "Section35DDA": {
+          "DeductUs35": {
+            "AmtDebPL": 5000,
+            "AmtUs35Allowable": 6000,
+            "ExcessAmtOverDebPL": 6726
+          }
+        },
+        "Section35E": {
+          "DeductUs35": {
+            "AmtDebPL": 5000,
+            "AmtUs35Allowable": 6000,
+            "ExcessAmtOverDebPL": 6726
+          }
+        }
+      }
+    },
+    "ScheduleICDS": {
+      "AccPolicyAmt": 17000,
+      "InventoriesValue": 20000,
+      "ConstContractsAmt": 10000,
+      "RevenueRcgAmt": 15000,
+      "TangiableFixedAsset": 19000,
+      "ForeignExgRates": 20000,
+      "GovtGrants": 7000,
+      "Securities": 9000,
+      "BorrowingCosts": 5000,
+      "ProvAssets": 6000,
+      "TotalNetAmt": 8000,
+      "TotalNetAmtNegative": 2000
+    },
+    "AuditInfo": {
+      "LiableSec44ABflg": "Y",
+      "AuditAccountantFlg": "Y",
+      "AuditReportFurnishDate": "2023-04-19",
+      "AuditorName": "YUU",
+      "AuditorMemNo": 123456,
+      "AudFrmName": "abcg",
+      "AudFrmRegNo": 12345678,
+      "AudFrmPAN": "AAAPL1234C",
+      "AuditDate": "2023-04-12",
+      "AudFrmAadhaar": "121212121212"
+    },
+    "ScheduleBP": {
+      "DepreciationAllowITAct32": {
+        "DepreciationAllowUs32_1_i": 9000
+      },
+      "DeemedProfitBusUs": {
+        "Section44DA": 7000,
+        "Section44B": 9000,
+        "Section44BB": 5000,
+        "Section44BBA": 8000,
+        "FirstSchTActOther": ""
+      },
+      "Form3cdInadm": {
+        "Amount": ""
+      },
+      "BusinessIncOthThanSpec": {
+        "InterestDisAllowUs23SMEAct": 7000,
+        "DeemIncUs32AD": 8000,
+        "DeemIncUs33AB": 10000,
+        "DeemIncUs33ABA": 8700,
+        "DeemIncUs35ABB": 5000,
+        "DeemIncUs40A3A": 6000,
+        "DeemIncUs72A": 6000,
+        "DeemIncUs80HHD": 4000,
+        "DeemIncUs80IA": 8000,
+        "DeductUs32_AD": 6700,
+        "DeemIncUs32AC": 6790
+      },
+      "InterestDisAllowUs23SMEAct": "",
+      "Plus44sChapXIIGUs115B": ""
+    },
+    "ScheduleDDT": {
+      "Ddt": [
+        {
+          "AmtAnyDividDeclarOrPaid": "",
+          "AmtRednAsPer115O1A": ""
+        }
+      ]
+    },
+    "PartabsFor6FrmAY13": {
+      "EquityAndLiablities": {
+        "ShareHolderFund": {
+          "shareCapital": {
+            "authorised": "",
+            "issuedSubsPaidUp": "",
+            "subscribedNotFullyPaid": ""
+          },
+          "resrNSurp": {
+            "capResr": "",
+            "capRedempResr": "",
+            "securPremResr": "",
+            "debunRedResr": "",
+            "revResr": "",
+            "shareOptOSAmount": "",
+            "otherResrvDtls": [
+              {
+                "nature": "",
+                "amount": ""
+              }
+            ]
+          },
+          "moneyRecvdAgainstShares": ""
+        },
+        "ShareAppMoneyAllot": {
+          "pendingLtOneYr": "",
+          "pendingMtOneYr": ""
+        },
+        "NonCurrLiabilities": {
+          "netDefferedTaxLiability": "",
+          "othLongTermLiablities": {
+            "tradePayables": "",
+            "others": "",
+            "totalOthLtLiabilities": ""
+          },
+          "totalNonCurrLiabilites": "",
+          "longTermBorrowings": {
+            "bondsDebentures": {
+              "foreignCurrency": "",
+              "rupee": ""
+            },
+            "termLoans": {
+              "foreignCurrency": "",
+              "rupeeLoans": {
+                "fromBanks": "",
+                "fromOthers": "",
+                "total": ""
+              }
+            },
+            "deferredPymtLiabilities": "",
+            "depositsFrmRelatedParties": "",
+            "otherDeposits": "",
+            "loansAndAdv": "",
+            "othersLoanAdv": "",
+            "totalLTBorrowings": "",
+            "longTermMaturities": ""
+          },
+          "longTermProvisions": {
+            "provEmpBenefits": "",
+            "others": "",
+            "total": ""
+          }
+        },
+        "CurrentLiabilities": {
+          "shortTrmBorrowings": {
+            "loansRepaybleOnDemand": {
+              "fromBanks": "",
+              "frmNonBanking": "",
+              "othFinanceInst": "",
+              "others": "",
+              "totLoansRepaybleOnDemand": ""
+            },
+            "depositsFrmRelatedParties": "",
+            "loansAndAdv": "",
+            "othLoansAndAdv": "",
+            "othDeposits": "",
+            "totShortTrmBorrowings": ""
+          },
+          "tradePayables": {
+            "others": "",
+            "totalTradePayables": "",
+            "osmoreThanOneYr": ""
+          },
+          "othCurrLiabilities": {
+            "currMatOnLTDebt": "",
+            "currMatFinanceOblg": "",
+            "accrInterestNotDue": "",
+            "accrInterest": "",
+            "incRecvdAdvance": "",
+            "unpaidDividend": "",
+            "appMonyRecvdAllotSecurities": "",
+            "unpaidMatDeposits": "",
+            "unpaidMatureDebenture": "",
+            "othPayables": "",
+            "totOthCurrLiabilities": ""
+          },
+          "shortTermProv": {
+            "empBenefitProv": "",
+            "proposedDividend": "",
+            "taxOnDividend": "",
+            "othProvision": "",
+            "totShortTermProvisions": "",
+            "itprovision": ""
+          },
+          "totCurrLiabilitiesProvision": ""
+        },
+        "TotEquityAndLiabilities": ""
+      },
+      "Assets": {
+        "nonCurrAssets": {
+          "fixedAsset": {
+            "tangible": {
+              "grossBlock": "",
+              "depreciation": "",
+              "impairmentLosses": "",
+              "netBlock": ""
+            },
+            "inTangible": {
+              "grossBlock": "",
+              "amortization": "",
+              "impairmentLosses": "",
+              "netBlock": ""
+            },
+            "capWrkProg": "",
+            "intangibleAssetUnDev": "",
+            "totFixedAsset": ""
+          },
+          "nonCurrInvstmnts": {
+            "invInProperty": "",
+            "equityInstruments": {
+              "listedEquities": "",
+              "unListedEquities": "",
+              "total": ""
+            },
+            "preferenceShares": "",
+            "govtOrTrustSecurities": "",
+            "debenturesOrBonds": "",
+            "mutualFunds": "",
+            "invstmntInPrtnrShipFirm": "",
+            "otherInvstmnts": "",
+            "totNonCurrInvstmnts": ""
+          },
+          "netDeferredTaxAssets": "",
+          "othNonCurrAssets": {
+            "others": "",
+            "total": "",
+            "nonCurrAssetUs222": "",
+            "lttradeReceivables": {
+              "secured": "",
+              "unsecured": "",
+              "doubtful": "",
+              "totOthNonCurrAssets": ""
+            }
+          },
+          "totNonCurrAssets": "",
+          "longTrmLoanAdv": {
+            "capitalAdv": "",
+            "securityDeposits": "",
+            "loanAdvRelatedParties": "",
+            "othLoanAdv": "",
+            "totLTLoanAdv": "",
+            "ltloanAdvDtls": {
+              "busOrProf": "",
+              "notForBusOrProf": "",
+              "shareHolderUs222": ""
+            }
+          }
+        },
+        "currentAssets": {
+          "currInvstmnts": {
+            "equityInstruments": {
+              "listedEquities": "",
+              "unListedEquities": "",
+              "total": ""
+            },
+            "preferenceShares": "",
+            "govtOrTrustSecurities": "",
+            "debenturesOrBonds": "",
+            "mutualFunds": "",
+            "invstmntInPrtnrShipFirm": "",
+            "otherInvstmnts": "",
+            "totCurrInvstmnts": ""
+          },
+          "inventories": {
+            "rawMatl": "",
+            "workInProgress": "",
+            "finOrTradGood": "",
+            "stkInTrade": "",
+            "storesConsumables": "",
+            "looseTools": "",
+            "others": "",
+            "totInventries": ""
+          },
+          "tradeReceivables": {
+            "others": "",
+            "totalTradeReceivables": "",
+            "osmoreThanSixMonths": ""
+          },
+          "cashNCashEquivalents": {
+            "balWithBanks": "",
+            "chequesDrafts": "",
+            "cashInHand": "",
+            "others": "",
+            "totCashNCashEquivalents": ""
+          },
+          "totShortTermLoanAdv": {
+            "loanAdv": "",
+            "others": "",
+            "totShrtTermLoans": "",
+            "stloanAdvDtls": {
+              "busOrProf": "",
+              "notForBusOrProf": "",
+              "shareHolderUs222": ""
+            }
+          },
+          "otherCurrAssets": "",
+          "totCurrAssets": ""
+        }
+      },
+      "TotalAssets": ""
+    },
+    "PartabsIndAS": {
+      "equityAndLiablities": {
+        "equity": {
+          "equityShareCapital": {
+            "authorised": "",
+            "issuedSubsPaidUp": "",
+            "subscribedNotFullyPaid": ""
+          },
+          "otherEquityReserv": {
+            "capRedempResr": "",
+            "debunRedResr": "",
+            "shareOptOSAmount": "",
+            "otherResrvDtls": [
+              {
+                "OthersDesc": "",
+                "OthersAmount": ""
+              }
+            ],
+            "retainedEarngs": ""
+          }
+        },
+        "liabilities": {
+          "nonCurrLiabilities": {
+            "financialLiabilities": {
+              "bondsDebentures": {
+                "foreignCurrency": "",
+                "rupee": "",
+                "total": ""
+              },
+              "termLoans": {
+                "foreignCurrency": "",
+                "rupeeLoans": {
+                  "fromBanks": "",
+                  "fromOthers": ""
+                },
+                "totalTermLoans": ""
+              },
+              "deferredPymtLiabilities": "",
+              "deposits": "",
+              "loansReltdParties": "",
+              "liabilityComp": "",
+              "otherLoans": "",
+              "tradePayables": "",
+              "otherFinancialLiab": "",
+              "longTermMaturities": ""
+            },
+            "provisions": {
+              "provEmpBenefits": "",
+              "othersProvisions": [
+                {
+                  "OthersDesc": "",
+                  "OthersAmount": ""
+                }
+              ]
+            },
+            "defrdTaxCurrLiabilites": "",
+            "otherNonCurLiabilites": {
+              "advances": "",
+              "othersNonCurrLiab": [
+                {
+                  "OthersDesc": "",
+                  "OthersAmount": ""
+                }
+              ],
+              "othersTotal": "",
+              "totalOthNonCurrLiab": ""
+            },
+            "totalNonCurrLiab": ""
+          },
+          "currentLiabilities": {
+            "financialLiabBorrowings": {
+              "loansRepaybleOnDemand": {
+                "fromBanks": "",
+                "frmOtherParties": "",
+                "totLoansRepaybleOnDemand": ""
+              },
+              "loansFrmRelatedParties": "",
+              "deposits": "",
+              "brwngOtherLoans": [
+                {
+                  "OthersDesc": "",
+                  "OthersAmount": ""
+                }
+              ],
+              "othersTotal": "",
+              "totalBorrowings": "",
+              "tradePayables": ""
+            },
+            "othFinancialLiabilities": {
+              "currMatOnLTDebt": "",
+              "currMatFinanceOblg": "",
+              "accrInterest": "",
+              "unpaidDividend": "",
+              "appMonyRecvdAllotSecurities": "",
+              "unpaidMatDeposits": "",
+              "unpaidMatureDebenture": "",
+              "othPayables": [
+                {
+                  "OthersDesc": "",
+                  "OthersAmount": ""
+                }
+              ],
+              "othersTotal": "",
+              "totOthFinancialLiab": ""
+            },
+            "tottalFinancialLiab": "",
+            "otherCuurLiabilities": {
+              "revenueRecvdAdvance": "",
+              "otherAdvance": [
+                {
+                  "OthersDesc": "",
+                  "OthersAmount": ""
+                }
+              ],
+              "othersAdvTotal": "",
+              "others": [
+                {
+                  "OthersDesc": "",
+                  "OthersAmount": ""
+                }
+              ],
+              "othersTotal": "",
+              "totalOthCurrLiab": ""
+            },
+            "provosions": {
+              "provosionEmpBenft": "",
+              "othersProvisions": [
+                {
+                  "OthersDesc": "",
+                  "OthersAmount": ""
+                }
+              ],
+              "othersTotal": "",
+              "totalProvosions": ""
+            },
+            "currTaxLiabilities": "",
+            "totalCurrentLiab": "",
+            "totalEquityLiab": ""
+          }
+        }
+      },
+      "assets": {
+        "nonCurrAssets": {
+          "propertyPlantEquip": {
+            "grossBlock": "",
+            "depreciation": "",
+            "impairmentLosses": "",
+            "netBlock": "",
+            "capWrkProg": "",
+            "invstPropGrossBlock": "",
+            "invstPropDepreciation": "",
+            "invstPropImprLosses": "",
+            "invstPropNetBlock": "",
+            "goodWlGrossBlock": "",
+            "goodWlImprLosses": "",
+            "goodWlNetBlock": "",
+            "othIntAstGrossBlock": "",
+            "othIntAstAmortisation": "",
+            "othIntAstImprLosses": "",
+            "othIntAstNetBlock": "",
+            "intAstUndrDevlpmnt": "",
+            "bioAstGrossBlock": "",
+            "bioAstImprLosses": "",
+            "bioAstNetBlock": "",
+            "financialAssets": {
+              "investments": {
+                "listedEquities": "",
+                "unListedEquities": "",
+                "invstPrfShares": "",
+                "invstGovtTrust": "",
+                "invstInDebenture": "",
+                "invstInMutualFunds": "",
+                "invstInPartnershpFirm": "",
+                "otherInvestment": [
+                  {
+                    "OthersDesc": "",
+                    "OthersAmount": ""
+                  }
+                ]
+              },
+              "tradeReceivables": {
+                "securedConsGoods": "",
+                "unSecuredConsGoods": "",
+                "doubtful": ""
+              },
+              "loans": {
+                "securityDepsts": "",
+                "loansRltdParties": "",
+                "otherLoans": [
+                  {
+                    "OthersDesc": "",
+                    "OthersAmount": ""
+                  }
+                ],
+                "loansBPPurpose": "",
+                "loansNotBPPurpose": "",
+                "loansToShrHolders": ""
+              },
+              "otherFinacialAssets": {
+                "bankDeposits": "",
+                "otherDeposits": "",
+                "defrdTaxAsst": ""
+              },
+              "otherNonCurrentAssets": {
+                "capitalAdvanc": "",
+                "advancOthCapital": "",
+                "otherNonCurrAsst": [
+                  {
+                    "OthersDesc": "",
+                    "OthersAmount": ""
+                  }
+                ],
+                "nonCurrAsstDueShrHldr": ""
+              }
+            }
+          }
+        },
+        "currentAssets": {
+          "inventories": {
+            "rawMaterials": "",
+            "workInProgress": "",
+            "finishedGoods": "",
+            "stockInTrade": "",
+            "storesSpares": "",
+            "looseTools": "",
+            "others": ""
+          },
+          "financialAssets": {
+            "investments": {
+              "listedEquities": "",
+              "unListedEquities": "",
+              "invstPrfShares": "",
+              "invstGovtTrust": "",
+              "invstInDebenture": "",
+              "invstInMutualFunds": "",
+              "invstInPartnershpFirm": "",
+              "otherInvestment": ""
+            },
+            "tradeReceivables": {
+              "securedConsGoods": "",
+              "unSecuredConsGoods": "",
+              "doubtful": ""
+            },
+            "cashEquivalents": {
+              "balancesWithBanks": "",
+              "chequeDraftsInHand": "",
+              "cashOnHand": "",
+              "otherCashDtls": [
+                {
+                  "OthersDesc": "",
+                  "OthersAmount": ""
+                }
+              ],
+              "bankBalanceOther": ""
+            },
+            "loans": {
+              "securityDepsts": "",
+              "loansRltdParties": "",
+              "otherLoans": [
+                {
+                  "OthersDesc": "",
+                  "OthersAmount": ""
+                }
+              ],
+              "loansBPPurpose": "",
+              "loansNotBPPurpose": "",
+              "loansToShrHolders": ""
+            },
+            "otherFinancialAsst": "",
+            "currentTaxAsst": "",
+            "otherCurrentAssets": {
+              "advancOthCapital": "",
+              "othersCurrentAssts": [
+                {
+                  "OthersDesc": "",
+                  "OthersAmount": ""
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "NatOfBus": {
+      "NatureOfBusiness": [
+        {
+          "Code": "16011",
+          "TradeName1": "ABC",
+          "TradeName2": "PQR",
+          "TradeName3": "XYZ"
+        }
+      ]
+    },
+    "ScheduleOS": {
+      "IncOthThanOwnRaceHorse": {
+        "AggrtValueWithoutCons526x": "",
+        "ImmovPropWithoutCons526x": "",
+        "ImmovPropInadeqCons526x": "",
+        "AnyOtherPropWithoutCons526x": ""
+      }
+    },
+    "shortTermCapGainFor23": {
+      "SaleofLandBuild": {
+        "SaleofLandBuildDtls": [
+          {
+            "PropertyValuation": ""
+          }
+        ]
+      }
+    },
+    "ScheduleVIA": {
+      "usrDeductUndChapVIA": {
+        "section80GGA": "",
+        "Section80GGC": "",
+        "Section80IBA": "",
+        "Section80JJA": "",
+        "Section80PA": "",
+        "Section80GGB": ""
+      }
+    },
+    "PartA_GEN2": {
+      "AuditReportDetails": [
+        {
+          "AuditReportAct": "",
+          "AuditReportActOthers": "",
+          "AuditReportSection": "",
+          "OtherITActFlag": "",
+          "AuditReportDate": ""
+        }
+      ]
+    }
+  },
+  "natOfBus": {
+    "NatureOfBusiness": [
+      {
+        "Code": "18017",
+        "TradeName1": "ABC",
+        "TradeName2": "abc",
+        "TradeName3": "xyz"
+      }
+    ]
+  },
+  "form3CEB": {
+    "AuditInfo": {
+      "LiableSec92Eflg": "Y",
+      "AuditDetails92E": {
+        "DateOfAudit": "2023-06-29",
+        "AuditFlag": "Y"
+      },
+      "AuditAccountantFlg": "Y",
+      "AuditReportFurnishFlg": "Y",
+      "AuditReportFurnishDate": "2023-04-20",
+      "AuditDetails": [
+        {
+          "AuditFlag": "Y",
+          "AuditedSection": "50B",
+          "DateOfAudit": "2023-04-11"
+        }
+      ]
+    }
+  },
+  "form56F": {
+    "Schedule10AA": {
+      "DeductSEZ": {
+        "DedUs10Detail": {
+          "Undertaking": {
+            "DedFromUndertakingWithAy": [
+              {
+                "DedUs10Sub": 15000,
+                "AssmtYrUnit": "",
+                "AckNo": ""
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "itba": {
+    "intrstFrmIncmTaxRefund": 10000
+  },
+  "form3CE": {
+    "ScheduleBP": {
+      "DeemedProfitBusUs": {
+        "Section44DA": 7000,
+        "Section44B": 5000,
+        "Section44BB": 7000,
+        "Section44DB": 11000,
+        "FirstSchTActOther": "",
+        "Section44BBA": 3000,
+        "Section44BBB": 15000,
+        "Section44D": 17000
+      },
+      "Plus44sChapXIIGUs115B": 78990
+    }
+  },
+  "scheduleCFL": {
+    "CarryFwdLossDetail": [
+      {
+        "AssessmentYear": "",
+        "BusLossOthThanSpecLossCF": 5000,
+        "BroughtFrwrdBusLoss": 7000,
+        "LossFrmSpecBusCF": 7000,
+        "LossFrmSpecifiedBusCF": 9000,
+        "OthSrcLossRaceHorseCF": 8000,
+        "LossFrmInsuCF": 5000,
+        "DateOfFiling": "2007-09-08",
+        "HpLossCF": 10000,
+        "StcgLossCF": 15000,
+        "LtcgLossCF": 20000,
+        "AdjustAccTax115BACAmt": 20000,
+        "AdjustAccTax115BADAmt": "",
+        "AmtAdjAccOptTaxUs115BAA_115BA": ""
+      }
+    ]
+  },
+  "form10E": {
+    "TaxComputation": {
+      "section89": 15000
+    }
+  },
+  "form10CCB": {
+    "form10CCBAmountDetls": [
+      {
+        "secCd": "80IA",
+        "subSecCd": "form10ccb4iv",
+        "ackNo": "",
+        "deductAmountSec80": 1000,
+        "state": ""
+      }
+    ]
+  },
+  "orgFirmInfo": {
+    "AssesseeName": {
+      "SurNameOrOrgName": "XYZ"
+    },
+    "DateOFFormOrIncorp": "2019-10-13",
+    "StatusOrCompanyType": "14"
+  },
+  "partAGEN2": {
+    "PartnerOrMemberInfo": [
+      {
+        "PartnerOrMemberName": "XYZ",
+        "AddressDetailWithZipCode": {
+          "addrDetail": "XYZ Residency",
+          "cityOrTownOrDistrict": "Hyderabad",
+          "stateCode": "36",
+          "countryCode": "91",
+          "pinCode": "530026",
+          "zipCode": ""
+        },
+        "SharePercentage": 30,
+        "Pan": "AAAPL1234C",
+        "AadhaarCardNo": "131313131313",
+        "RateOfInterest": 67,
+        "PercentageOfShareForeignComp": 73,
+        "LlpidentificationNo": "678932167",
+        "PartnerForeignCompFlg": "YES"
+      }
+    ],
+    "PvtDiscretioneryTrust": {
+      "PvtDiscTrustShareFlg": "",
+      "PvtDiscTrustBusIncFlg": "",
+      "PvtDiscTrustWillFlg": "",
+      "PvtDiscTrustReceivableFlg": "",
+      "PvtDiscTrustRelativesFlg": "",
+      "PvtDiscTrustBusProfFlg": ""
+    },
+    "NatOfBus": {
+      "NatureOfBusiness": [
+        {
+          "Code": "18017",
+          "TradeName1": "ABC",
+          "TradeName2": "PQR",
+          "TradeName3": "XYZ"
+        }
+      ]
+    },
+    "OtherDetailsFor7": {
+      "OtherDetailsUs2_15": {
+        "CharitablePurposeOfGeneralPublic": "",
+        "ActivityNature2_15": "",
+        "ActivityRendering2_15": "",
+        "AggAnnualRecptsofInst": [
+          {
+            "NameOfTheInstitution": ""
+          }
+        ]
+      }
+    },
+    "LiableSec44ABflg": "",
+    "AuditDetails": [
+      {
+        "AuditedSection": ""
+      }
+    ]
+  },
+  "form10CCF": {
+    "UsrDeductUndChapVIAType": {
+      "Section80LA": 7000,
+      "Section80LA_1A": 5000
+    }
+  },
+  "form10DA": {
+    "UsrDeductUndChapVIAType": {
+      "Section80JJAA": 10000
+    }
+  },
+  "scheduleAL": {
+    "AsstLiabilitiesUnlistedCompany": {
+      "DtlsBldLandResHouseUC": [
+        {
+          "Address": "Hyderabad",
+          "PinCode": "345679",
+          "AcquisitionDate": "2021-10-06",
+          "AcquisitionCost": "677",
+          "Purpose": "SQ"
+        }
+      ],
+      "DtlsBldLandNotResHouseUC": [
+        {
+          "Address": "Hyderabad",
+          "PinCode": "345679",
+          "AcquisitionDate": "2021-10-06",
+          "AcquisitionCost": "677",
+          "Purpose": "LE"
+        }
+      ],
+      "DtlsListedEquitySharesUC": [
+        {
+          "OpenBalNumberOfShares": "65",
+          "OpenBalShareType": "ES",
+          "OpenBalAcquisitionCost": "12345"
+        }
+      ],
+      "DtlsUnListedEquitySharesUC": [
+        {
+          "CompanyName": "XYZ",
+          "Pan": "CVBNM7654R",
+          "OpenBalNumberOfShares": "56",
+          "OpenBalAcquisitionCost": "567"
+        }
+      ],
+      "DtlsOtherSecuritiesUC": [
+        {
+          "SecuritiesType": "",
+          "SecuritiesTypeOthers": "",
+          "ListedUnlistedFlag": "",
+          "OpenBalNumberOfSecurities": "",
+          "OpenBalAcquisitionCost": ""
+        }
+      ],
+      "DtlsCapitalContributionOthEntityUC": [
+        {
+          "EntityName": "ABC",
+          "Pan": "ASDFG1234E",
+          "OpeningBalance": "566"
+        }
+      ],
+      "DtlsLoansAdvancesUC": [
+        {
+          "PersonName": "",
+          "Pan": "",
+          "OpeningBalance": ""
+        }
+      ],
+      "DtlsVehiclestransportUC": [
+        {
+          "AssetParticulars": "A",
+          "AssetParticularsOthers": "O",
+          "RegNumVehicle": "AS2345FG43",
+          "AcquisitionCost": "456",
+          "AcquisitionDate": "2021-10-08",
+          "Purpose": ""
+        }
+      ],
+      "DtlsJewelleryArchCollectionsUC": [
+        {
+          "AssetParticulars": "",
+          "AssetParticularsOthers": "",
+          "Quantity": "",
+          "AcquisitionCost": "",
+          "AcquisitionDate": "",
+          "Purpose": ""
+        }
+      ],
+      "DtlsLiabilitiesUC": [
+        {
+          "PersonName": "",
+          "Pan": "",
+          "OpeningBalance": ""
+        }
+      ],
+      "AlunlistedCompanyFlag": ""
+    },
+    "AsstLiabilitiesStartUps": {
+      "DtlsBldLandResHouseSU": [
+        {
+          "Address": "",
+          "PinCode": "",
+          "AcquisitionDate": "",
+          "AcquisitionCost": "",
+          "Purpose": ""
+        }
+      ],
+      "DtlsBldLandNotResHouseSU": [
+        {
+          "Address": "",
+          "PinCode": "",
+          "AcquisitionDate": "",
+          "AcquisitionCost": "",
+          "Purpose": ""
+        }
+      ],
+      "DtlsLoansAdvancesSU": [
+        {
+          "PersonName": "",
+          "Pan": "",
+          "LoansAdvancesDate": "",
+          "AmtLoansAdvances": ""
+        }
+      ],
+      "DtlsCapitalContributionSU": [
+        {
+          "EntityName": "ABC",
+          "Pan": "ASDFG5432S",
+          "CapitalContributionDate": "2021-10-08",
+          "AmtContribution": "234"
+        }
+      ],
+      "DtlsAcqustSharesSecuritiesSU": [
+        {
+          "EntityCompanyName": "",
+          "Pan": "",
+          "SharesSecuritiesType": ""
+        }
+      ],
+      "DtlsVehiclestransportSU": [
+        {
+          "AssetParticulars": "",
+          "AssetParticularsOthers": "",
+          "RegNumVehicle": "",
+          "AcquisitionCost": "",
+          "AcquisitionDate": "",
+          "Purpose": ""
+        }
+      ],
+      "DtlsJewelleryAcquiredSU": [
+        {
+          "AssetParticulars": "",
+          "AssetParticularsOthers": "",
+          "Quantity": "",
+          "AcquisitionCost": "",
+          "AcquisitionDate": "",
+          "Purpose": ""
+        }
+      ],
+      "DtlsArchaeologicalCollctSU": [
+        {
+          "AssetParticulars": "",
+          "AssetParticularsOthers": "",
+          "Quantity": "",
+          "AcquisitionCost": "",
+          "AcquisitionDate": "",
+          "Purpose": ""
+        }
+      ],
+      "DtlsLiabilitiesSU": [
+        {
+          "PersonName": "",
+          "Pan": "",
+          "OpeningBalance": ""
+        }
+      ],
+      "AlstartUpsFlag": ""
+    },
+    "ImmovableDetails": [
+      {
+        "Description": "",
+        "AddressAL": {
+          "ResidenceNo": "",
+          "ResidenceName": "",
+          "RoadOrStreet": "",
+          "LocalityOrArea": "",
+          "CityOrTownOrDistrict": "",
+          "StateCode": "",
+          "CountryCode": "",
+          "PinCode": "",
+          "ZipCode": ""
+        },
+        "Amount": ""
+      }
+    ],
+    "MovableAsset": {
+      "DepositsInBank": "",
+      "SharesAndSecurities": "",
+      "InsurancePolicies": "",
+      "LoansAndAdvancesGiven": "",
+      "CashInHand": "",
+      "JewelleryBullionEtc": "",
+      "ArchCollDrawPaintSulpArt": "",
+      "VehiclYachtsBoatsAircrafts": ""
+    },
+    "InterstAOPFlag": "",
+    "InterestHeldInaAsset": [
+      {
+        "NameOfFirm": "",
+        "AddressAL": {
+          "ResidenceNo": "",
+          "ResidenceName": "",
+          "RoadOrStreet": "",
+          "LocalityOrArea": "",
+          "CityOrTownOrDistrict": "",
+          "StateCode": "",
+          "CountryCode": "",
+          "PinCode": "",
+          "ZipCode": ""
+        },
+        "PanOfFirm": "",
+        "AssesseInvestment": ""
+      }
+    ]
+  },
+  "form29b": {
+    "ScheduleMAT": {
+      "plAcntPrepSchedVICompAct": "",
+      "plAcctFlg": "",
+      "plAcntPrepAsperAGM": "",
+      "profAfterTaxPLAcnt": "",
+      "additions": {
+        "ResvrNo33AC": "",
+        "ProvUncertainLiab": "",
+        "ProvLossOfSubsComp": "",
+        "DividendPaidOrProposed": "",
+        "ExpendExempIncUs10S": "",
+        "ExpAopBoi": "",
+        "ExpClauseFb": "",
+        "NotLossClauseFc": "",
+        "NotLossUs115Bbf": "",
+        "DepreciatAttribToRevalAsset": "",
+        "GainClauseK": "",
+        "Others": "",
+        "ItpaidInclDefTax": ""
+      },
+      "deducts": {
+        "AmtWithdrawFromResvrIfCredPL": "",
+        "IncExempIncUs10S": "",
+        "AmtWithdrawFromResvrIfCredPLNoAttrib": "",
+        "ShareIncAopBoi": "",
+        "IncClauseiid": "",
+        "NotGainClauseiie": "",
+        "LossTrnsClauseiif": "",
+        "LossTrnsClauseiig": "",
+        "UnAbsorbedDepreciat": "",
+        "ProSickIndustryOrExcedAccumLos": "",
+        "Others": ""
+      },
+      "bookProfUs115JB": "",
+      "additionsProfUs115JB": {
+        "amountsCredited": "",
+        "amountsDebited": ""
+      },
+      "deductionsProfUs115JB": {
+        "amountsCredited": "",
+        "amountsDebited": ""
+      }
+    }
+  },
+  "auditInfo": {
+    "LiableSec92Eflg": "",
+    "AuditDetails92E": {
+      "DateOfAudit": "2023-04-12",
+      "AuditFlag": "Y"
+    },
+    "AuditAccountantFlg": "",
+    "AuditReportFurnishFlg": "",
+    "AuditReportFurnishDate": "",
+    "AuditDetails": [
+      {
+        "AuditFlag": "Y",
+        "AuditedSection": "50B",
+        "DateOfAudit": "2023-04-13"
+      }
+    ]
+  },
+  "form66": {
+    "ScheduleBP": {
+      "Plus44sChapXIIGUs115B": 257893
+    }
+  },
+  "form10IBICID": {
+    "filingStatus": {
+      "section115BA": "115BAB",
+      "assyr": "2022",
+      "acknum": "123456789101114",
+      "filingdate": "2021-04-04"
+    }
+  },
+  "filingReturn": {
+    "section139": "",
+    "depAmtAggAmtExcd1CrPrYrFlg": ""
+  },
+  "form10IE": {
+    "OptedFor115BAC": "N",
+    "DateOfFiling": "2021-04-04",
+    "AcknNumber": "123456789101114",
+    "OptionExercised": "",
+    "Opted115BACFirstAY": "",
+    "DateOfFilingFirstAY": "",
+    "AcknNumberFirstAY": "",
+    "OptionExercisedFirstAY": "",
+    "Opted115BACSecAY": "",
+    "DateOfFilingSecAY": "",
+    "AcknNumberSecAY": "",
+    "OptionExercisedSecAY": "",
+    "NewTaxRegime": "Y"
+  },
+  "form64A": {
+    "SchedulePTI": {
+      "SchedulePTIDtls": [
+        {
+          "BusinessName": "AGAHJ",
+          "BusinessPAN": "AAAPL1234C",
+          "IncFromHP": {
+            "AmountOfInc": 78399,
+            "TdsAmount": 38849,
+            "CurrYrLossShareByInvstFund": ""
+          },
+          "CapitalGainsPTI": {
+            "shortTermCG": {
+              "AmountOfInc": 83889,
+              "TdsAmount": 28388,
+              "CurrYrLossShareByInvstFund": ""
+            },
+            "longTermCG": {
+              "AmountOfInc": 37388,
+              "TdsAmount": 28388,
+              "CurrYrLossShareByInvstFund": ""
+            },
+            "STCG_Sec111A": {
+              "AmountOfInc": "",
+              "TdsAmount": "",
+              "CurrYrLossShareByInvstFund": ""
+            },
+            "STCG_Others": {
+              "AmountOfInc": "",
+              "TdsAmount": "",
+              "CurrYrLossShareByInvstFund": ""
+            },
+            "LTCG_Sec112A": {
+              "AmountOfInc": "",
+              "TdsAmount": "",
+              "CurrYrLossShareByInvstFund": ""
+            },
+            "LTCG_Others": {
+              "AmountOfInc": "",
+              "TdsAmount": "",
+              "CurrYrLossShareByInvstFund": ""
+            }
+          },
+          "IncClmdPTI": {
+            "sec23FBB": {
+              "AmountOfInc": 57748,
+              "TdsAmount": 34888,
+              "CurrYrLossShareByInvstFund": ""
+            },
+            "secBIncExmptDtl": {
+              "SectionCode": "",
+              "SecBCIncExmptDtl": {
+                "AmountOfInc": 28399,
+                "TdsAmount": 38499,
+                "CurrYrLossShareByInvstFund": ""
+              }
+            },
+            "secCIncExmptDtl": {
+              "SectionCode": "",
+              "SecBCIncExmptDtl": {
+                "AmountOfInc": 45543,
+                "TdsAmount": 45544,
+                "CurrYrLossShareByInvstFund": ""
+              }
+            }
+          },
+          "IncOthSrc": {
+            "AmountOfInc": 73838,
+            "TdsAmount": 23899,
+            "CurrYrLossShareByInvstFund": ""
+          },
+          "InvstmntCvrdUs115UA115UB": "A",
+          "OS_Dividend": {
+            "AmountOfInc": 37488,
+            "NetIncomeLoss": 28490,
+            "TdsAmount": 27388,
+            "CurrYrLossShareByInvstFund": ""
+          }
+        }
+      ]
+    }
+  },
+  "form10CCD": {
+    "UsrDeductUndChapVIAType": {
+      "Section80QQB": ""
+    }
+  },
+  "form10CCE": {
+    "UsrDeductUndChapVIAType": {
+      "Section80RRB": ""
+    }
+  },
+  "ais": {
+    "ScheduleOS": {
+      "IncOthThanOwnRaceHorse": {
+        "IntrstFrmOthers": "",
+        "RentFromMachPlantBldgs": "",
+        "LtryPzzlChrgblUs115BB":3000,
+        "DividendGross": "",
+        "OthersInc": {
+          "othersIncDtls": [
+            {
+              "OthNatOfInc": "",
+              "OthAmount": ""
+            }
+          ]
+        },
+        "UnExplainedMoneyUs69A": "",
+        "UnExplndExpndtrUs69C": "",
+        "OthersGrossDtls": [
+          {
+            "SourceDescription": "5A1aiia",
+            "SourceAmount": 65373878
+          }
+        ]
+      },
+      "IncomeDeductionsOthersInc": [
+        {
+          "OthSrcNatureDesc": "",
+          "OthSrcOthAmount": ""
+        }
+      ]
+    },
+    "Schedule112A": {
+      "Schedule112ADtls": [
+        {
+          "ShareUnitName": "ABC",
+          "NumSharesUnits": "10",
+          "SalePricePerShareUnit": "100",
+          "TotSaleValue": "",
+          "CostAcqWithoutIndx": "",
+          "AcquisitionCost": "",
+          "LtcgBeforelowerB1B2": "",
+          "FairMktValuePerShareunit": "",
+          "TotFairMktValueCapAst": "",
+          "FullValueConsdr": "",
+          "CostImprvWithoutIndx": "",
+          "ExpExclCnctTransfer": "",
+          "TotalDeductions": "",
+          "Balance": "",
+          "ShareOnOrBefore": "BE",
+          "ISINCode": "INE315R01018"
+        }
+      ]
+    },
+    "Schedule112A115AD": {
+      "Schedule112A115ADDtls": [
+        {
+          "ShareUnitName": "ABCD",
+          "NumSharesUnits": "10",
+          "SalePricePerShareUnit": "1000",
+          "TotSaleValue": "",
+          "CostAcqWithoutIndx": "",
+          "AcquisitionCost": "",
+          "LtcgBeforelowerB1B2": "",
+          "FairMktValuePerShareunit": "",
+          "TotFairMktValueCapAst": "",
+          "FullValueConsdr": "",
+          "CostImprvWithoutIndx": "",
+          "ExpExclCnctTransfer": "",
+          "TotalDeductions": "",
+          "Balance": "",
+          "ShareOnOrBefore": "BE",
+          "ISINCode": "INE315R01020"
+        }
+      ]
+    },
+    "ScheduleHP": {
+      "TenantDetails": [
+        {
+          "PANOfTenant": "GHJKL6789U",
+          "PANTANofTenant": "HYDF12345P"
+        }
+      ],
+      "PropertyDetails": [
+        {
+          "HPSNo": "",
+          "AddressDetailWithZipCode": {
+            "AddrDetail": "",
+            "CityOrTownOrDistrict": "",
+            "StateCode": "",
+            "CountryCode": "",
+            "PinCode": "",
+            "ZipCode": ""
+          },
+          "PropertyOwner": "",
+          "PropCoOwnedFlg": "",
+          "AssessePercentShareProp": "",
+          "CoOwners": [
+            {
+              "CoOwnersSNo": "",
+              "NameCoOwner": "",
+              "PAN_CoOwner": "",
+              "Aadhaar_CoOwner": "",
+              "PercentShareProperty": ""
+            }
+          ],
+          "ifLetOut": "",
+          "TenantDetails": [
+            {
+              "PANOfTenant": "",
+              "PANTANofTenant": ""
+            }
+          ],
+          "Rentdetails": {
+            "AnnualLetableValue": "",
+            "RentNotRealized": "",
+            "LocalTaxes": "",
+            "TotalUnrealizedAndTax": "",
+            "BalanceALV": "",
+            "AnnualOfPropOwned": "",
+            "ThirtyPercentOfBalance": "",
+            "IntOnBorwCap": "",
+            "TotalDeduct": "",
+            "ArrearsUnrealizedRentRcvd": "",
+            "IncomeOfHP": ""
+          }
+        }
+      ]
+    },
+    "ShortTermCapGainFor23": {
+      "SaleofLandBuild": {
+        "SaleofLandBuildDtls": [
+          {
+            "FullConsideration": "",
+            "PropertyValuation": "",
+            "TrnsfImmblPrprty": {
+              "TrnsfImmblPrprtyDtls": [
+                {
+                  "NameOfBuyer": "",
+                  "AadhaarOfBuyer": "",
+                  "Amount": "",
+                  "AddressOfProperty": "",
+                  "PinCode": "",
+                  "PANofBuyer": ""
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "LongTermCapGain23": {
+      "SaleofLandBuild": {
+        "SaleofLandBuildDtls": [
+          {
+            "FullConsideration": "",
+            "PropertyValuation": "",
+            "TrnsfImmblPrprty": {
+              "TrnsfImmblPrprtyDtls": [
+                {
+                  "NameOfBuyer": "",
+                  "AadhaarOfBuyer": "",
+                  "Amount": "",
+                  "AddressOfProperty": "",
+                  "PinCode": "",
+                  "PANofBuyer": ""
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "EquityMFonSTT": [
+        {
+          "EquityMFonSTTDtls": {
+            "FullConsideration": "",
+            "LossSec94Of7Or94Of8": "",
+            "CostAcquisitWithoutIndx": ""
+          },
+          "MFSectionCode": ""
+        }
+      ]
+    },
+    "TradingAccount": {
+      "SaleOfGoods": 7839,
+      "SalGdsWiseDetails": {
+        "GoodsServiceWiseDetail": [
+          {
+            "HSNOrSACCode": 134565,
+            "Amount": 10000,
+            "GdsOrSrcName": "avc"
+          }
+        ],
+        "OtherGoodsWiseAmt": 15000,
+        "ModeOfPaymentWiseDetail": {
+          "Cash": 3984,
+          "OthThanCash": 7383
+        }
+      },
+      "SalGdsPartyWiseDetails": {
+        "PartyWiseDetails": [
+          {
+            "NameofParty": "PQRS",
+            "PANofParty": "ASFPD1234D",
+            "AadhaarofParty": "121212121212",
+            "Amount": 12345
+          }
+        ],
+        "OtherPartyWiseAmt": 10000
+      },
+      "SaleOfServices": 13000,
+      "SalSvcWiseDetails": {
+        "GoodsServiceWiseDetail": [
+          {
+            "HSNOrSACCode": 134565,
+            "Amount": 10000,
+            "GdsOrSrcName": "avc"
+          }
+        ],
+        "OtherServiceWiseAmt": 10000,
+        "ModeOfPaymentWiseDetail": {
+          "Cash": 3984,
+          "OthThanCash": 7383
+        }
+      },
+      "SalSvcPartyWiseDetails": {
+        "PartyWiseDetails": [
+          {
+            "NameofParty": "PQRS",
+            "PANofParty": "ASFPD1234D",
+            "AadhaarofParty": "121212121212",
+            "Amount": 12345
+          }
+        ],
+        "OtherPartyWiseAmt": 5000
+      },
+      "OtherOperatingRevenueDtls": [
+        {
+          "OperatingRevenueName": "fjfjnv",
+          "OperatingRevenueAmt": 10000
+        }
+      ],
+      "ExciseCustomsVAT": {
+        "CustomDuty": 7000,
+        "CounterVailDuty": 6872,
+        "SplAddDuty": 2738,
+        "UnionExciseDuty": 6785,
+        "ServiceTax": 8263,
+        "VaTorSaleTax": 8373,
+        "CentralGoodServiceTax": 6435,
+        "StateGoodServiceTax": 7383,
+        "IntegratedGoodServiceTax": 7328,
+        "UnionTerrGoodServiceTax": 9273,
+        "OthDutyTaxCess": 8393
+      },
+      "ClsngStckOfFinishedStcks": 7484,
+      "OpngStckOfFinishedStcks": 8937,
+      "Purchases": 5674,
+      "CarriageInward": 7654,
+      "PowerAndFuel": 7960,
+      "DirectExpenses": 7654,
+      "OtherIncDtls": [
+        {
+          "NatureOfIncome": "dfjnf",
+          "Amount": 26743
+        }
+      ],
+      "DutyTaxPay": {
+        "ExciseCustomsVAT": {
+          "CustomDuty": 7000,
+          "CounterVailDuty": 6872,
+          "SplAddDuty": 2738,
+          "UnionExciseDuty": 6785,
+          "ServiceTax": 8263,
+          "VaTorSaleTax": 8373,
+          "CentralGoodServiceTax": 6435,
+          "StateGoodServiceTax": 7383,
+          "IntegratedGoodServiceTax": 7328,
+          "UnionTerrGoodServiceTax": 9273,
+          "OthDutyTaxCess": 8393
+        }
+      },
+      "GrossRcptFromProfession": "13000",
+      "IntradayTradingTurnOver": "",
+      "IntradayTradingIncome": ""
+    }
+  },
+  "form3CEA": {
+    "ShortTermCapGainFor23": {
+      "SlumpSaleInStcg": {
+        "FullConsideration": "",
+        "NetWorthOfDivision": ""
+      }
+    },
+    "LongTermCapGain23": {
+      "SlumpSaleInLtcg": {
+        "FullConsideration": "",
+        "NetWorthOfDivision": ""
+      }
+    }
+  },
+  "form10IF": {
+    "newTaxRegime": "N",
+    "optingFor115BAD": "",
+    "firstFiledForm10IFDate": "2022-04-21",
+    "firstFiledForm10IFAckNo": 12453,
+    "secondFiledForm10IFDate": "2022-04-22",
+    "secondFiledForm10IFAckNo": 56433,
+    "firstFiledAy": "",
+    "secondFiledAy": "",
+    "currentAY": "",
+    "form10IFDate": "2022-04-20",
+    "form10IFAckNo": 12345
+  },
+  "form64D": {
+    "schedulePTI": {
+      "schedulePTIDtls": {
+        "capitalGainsPTI": [
+          {
+            "capitalGainsPTI": {
+              "shortTermCG": {
+                "amountOfInc": 66655,
+                "currYrLossShareByInvstFund": 65566,
+                "tdsAmt": 66666
+              },
+              "longTermCG": {
+                "amountOfInc": 47478,
+                "currYrLossShareByInvstFund": 55555,
+                "tdsAmt": 65666
+              },
+              "stcg_Sec111A": {
+                "amountOfInc": 47478,
+                "currYrLossShareByInvstFund": 65556,
+                "tdsAmt": 66556
+              },
+              "ltcg_Sec112A": {
+                "amountOfInc": 556665,
+                "currYrLossShareByInvstFund": 47476,
+                "tdsAmt": 5566655
+              },
+              "ltcg_Others": {
+                "amountOfInc": 66655,
+                "currYrLossShareByInvstFund": 47476,
+                "tdsAmt": 474766
+              },
+              "stcg_Others": {
+                "amountOfInc": 65476,
+                "currYrLossShareByInvstFund": 36378,
+                "tdsAmt": 66566
+              }
+            },
+            "invstmntCvrdUs115UA115UB": "B",
+            "businessName": "AGF",
+            "businessPAN": "BURPG1234A",
+            "incOthSrc": {
+              "amountOfInc": 66665,
+              "netIncomeLoss": 47476,
+              "tdsamount": 65656
+            },
+            "os_Dividend": {
+              "amountOfInc": 47476,
+              "netIncomeLoss": 66656,
+              "tdsamount": 56656
+            },
+            "os_Others": {
+              "amountOfInc": 65555,
+              "netIncomeLoss": 56565,
+              "tdsamount": 47476
+            }
+          }
+        ],
+        "capitalLossPTI": [
+          {
+            "capitalLossPTI": {
+              "shortTermCG": {
+                "amountOfInc": "",
+                "currYrLossShareByInvstFund": "",
+                "tdsAmt": ""
+              },
+              "longTermCG": {
+                "amountOfInc": "",
+                "currYrLossShareByInvstFund": "",
+                "tdsAmt": ""
+              },
+              "stcg_Sec111A": {
+                "amountOfInc": "",
+                "currYrLossShareByInvstFund": "",
+                "tdsAmt": ""
+              },
+              "ltcg_Sec112A": {
+                "amountOfInc": "",
+                "currYrLossShareByInvstFund": "",
+                "tdsAmt": ""
+              },
+              "ltcg_Others": {
+                "amountOfInc": "",
+                "currYrLossShareByInvstFund": "",
+                "tdsAmt": ""
+              },
+              "stcg_Others": {
+                "amountOfInc": "",
+                "currYrLossShareByInvstFund": "",
+                "tdsAmt": ""
+              }
+            },
+            "invstmntCvrdUs115UA115UB": "B",
+            "businessName": 65656,
+            "businessPAN": 65666,
+            "incOthSrc": {
+              "amountOfInc": 66665,
+              "netIncomeLoss": 56565,
+              "tdsamount": 66565
+            },
+            "os_Dividend": {
+              "amountOfInc": 66665,
+              "netIncomeLoss": 65656,
+              "tdsamount": 66556
+            },
+            "os_Others": {
+              "amountOfInc": 66565,
+              "netIncomeLoss": 66656,
+              "tdsamount": 66666
+            }
+          }
+        ]
+      }
+    }
+  },
+  "form10BOR10BB": {
+    "auditDetails": [
+      {
+        "dateOfAudit": "2023-04-11",
+        "auditorName": "XYZ",
+        "auditorMemNo": 123456,
+        "audFrmName": "ABC",
+        "audFrmPAN": "AAAPL1234C",
+        "audFrmAadhaar": "121212121212",
+        "auditDate": "2023-04-14",
+        "auditReportFurnishDate": "2020-06-21",
+        "AuditFlag": ""
+      }
+    ]
+  },
+  "insights": {
+    "salaries": {
+      "salary": [
+        {
+          "tanOfEmployer": "",
+          "nameOfEmployer": "",
+          "natOfEmployment": "",
+          "addressDetail": {
+            "addDetail": "",
+            "cityOrTownOrDistrict": "",
+            "stateCode": "",
+            "pinCode": "",
+            "zipCode": ""
+          },
+          "salarys": {
+            "grossSalary": "",
+            "salary": "",
+            "natureOfSalary": {
+              "othersIncDtls": [
+                {
+                  "natureDesc": "",
+                  "othNatOfInc": "",
+                  "othAmount": ""
+                }
+              ]
+            },
+            "valueOfPerquisites": "",
+            "natureOfPerquisites": {
+              "othersIncDtls": [
+                {
+                  "natureDesc": "",
+                  "othNatOfInc": "",
+                  "othAmount": ""
+                }
+              ]
+            },
+            "profitsinLieuOfSalary": "",
+            "natureOfProfitInLieuOfSalary": {
+              "othersIncDtls": [
+                {
+                  "natureDesc": "",
+                  "othNatOfInc": "",
+                  "othAmount": ""
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "cumulativeSalary": {
+      "salary": "",
+      "perquisitesValue": "",
+      "profitsInSalary": "",
+      "salaryUpdateTimestamp": ""
+    },
+    "intrstFrmSavingBank": 10000,
+    "incDeductionsOthIncCPC": [
+      {
+        "othSrcNatureDesc": "",
+        "othSrcOthAmount": "",
+        "itrAy": ""
+      }
+    ],
+    "scheduleOS": {
+      "incOthThanOwnRaceHorse": {
+        "intrstFrmOthers": 78898,
+        "rentFromMachPlantBldgs": 78898,
+        "ltryPzzlChrgblUs115BB": 33454,
+        "dividendGross": 32455,
+        "othersInc": {
+          "othersIncDtls": [
+            {
+              "othNatOfInc": "AJHSJ",
+              "othAmount": 45566
+            }
+          ]
+        },
+        "OthersGrossDtls": [
+          {
+            "SourceDescription": "5A1aiia",
+            "SourceAmount": 1627788
+          }
+        ],
+        "DividendOthThan22e": 1627889
+      },
+      "incFromOwnHorse": {
+        "receipts": 25266
+      }
+    },
+    "scheduleHP": {
+      "propertyDetails": [
+        {
+          "addressDetailWithZipCode": {
+            "addrDetail": "",
+            "cityOrTownOrDistrict": "",
+            "stateCode": "",
+            "countryCode": "",
+            "pinCode": "",
+            "zipCode": ""
+          },
+          "coOwners": [
+            {
+              "nameCoOwner": "",
+              "panCoOwner": "",
+              "percentShareProperty": "",
+              "aadhaarCoOwner": ""
+            }
+          ],
+          "tenantDetails": [
+            {
+              "nameOfTenant": "",
+              "panOfTenant": "",
+              "panTANofTenant": "",
+              "aadhaarofTenant": "121212121212"
+            }
+          ],
+          "grossRent": "",
+          "typeOfHP": "Y",
+          "ifLetOut": "",
+          "tsn_id": "",
+          "parent_tsn_id": ""
+        }
+      ]
+    },
+    "intrstFrmTermDeposit": "",
+    "grossRent": "",
+    "capitalGains": {
+      "propertyDetails": [
+        {
+          "addressDetailWithZipCode": {
+            "addrDetail": "",
+            "cityOrTownOrDistrict": "",
+            "stateCode": "",
+            "countryCode": "",
+            "pinCode": "",
+            "zipCode": ""
+          },
+          "buyers": [
+            {
+              "nameBuyer": "",
+              "panBuyer": "",
+              "aadhaarBuyer": "",
+              "amountPaidbyBuyer": ""
+            }
+          ],
+          "stampDuty": "",
+          "transactionAmount": "",
+          "infoCode": "",
+          "transId": "",
+          "parentTsnId": "",
+          "indicator": ""
+        }
+      ]
+    },
+    "typeOfHP": "Y",
+    "incomeDeductionsOthersInc": [
+      {
+        "othSrcNatureDesc": "",
+        "othSrcOthAmount": ""
+      }
+    ],
+    "DepAmtAggAmtExcd1CrPrYrFlg": "",
+    "AmtSeventhProvisio139i": "",
+    "UsrDeductUndChapVIAType": {
+      "Section80TTB": ""
+    }
+  },
+  "form10AC": {
+    "RegApprUnderITADtls": [
+      {
+        "SectionRegistered": 80000,
+        "RegApprovalDate": "2020-10-13",
+        "ApprovalRegistrationNo": "",
+        "EffectiveDate": "2021-09-12"
+      }
+    ]
+  },
+  "ScheduleESOP": {
+    "ScheduleESOP2122_Type": {
+      "AssessmentYear": "",
+      "TaxDeferredBFEarlierAY": 12000
+    }
+  },
+  "Form10A": {
+    "RegApprUnderITADtls": [
+      {
+        "SectionRegistered": 80000,
+        "RegSecExmpClaimed": "",
+        "RegApprovalDate": "2021-10-13",
+        "ApprovalRegistrationNo": 398309901,
+        "ApprovingAuthority": "",
+        "EffectiveDate": "2021-01-13"
+      }
+    ],
+    "RegApprUnderOthITADtls": [
+      {
+        "LawRegistered": "FCRA",
+        "RegApprDate": "2020-10-13",
+        "ApprovalRegistrationNo": 3983099,
+        "ApprovingAuthority": "",
+        "EffectiveDate": "2021-12-12"
+      }
+    ],
+    "AuthorFounderDtls5percent": [
+      {
+        "Name": "",
+        "Relation": "",
+        "ShareHoldingPercentage": "",
+        "UniqueIdentNumber": "",
+        "IDCode": "",
+        "Address": "",
+        "MobileNo": "",
+        "EmailAddress": ""
+      }
+    ],
+    "AuthorFounderDtls5percentNonInd": [
+      {
+        "Name": "",
+        "UniqueIdentNumber": "",
+        "IDCode": "",
+        "Address": "",
+        "BeneficialPercentage": ""
+      }
+    ]
+  },
+  "Schedule80G": {
+    "Don50PercentApprReqd": {
+      "DoneeWithPan": [
+        {
+          "DoneeWithPanName": "Ankit",
+          "DoneePAN": "BSUPV1234Q",
+          "AddressDetail": {
+            "AddrDetail": "2-128, Asifabad",
+            "CityOrTownOrDistrict": "Kumarambheem",
+            "StateCode": "36",
+            "PinCode": "504293"
+          },
+          "DonationAmtCash": 200,
+          "DonationAmtOtherMode": 234,
+          "DonationAmt": "",
+          "EligibleDonationAmt": "",
+          "DoneeARN": "HYDFA2345P123456789034567"
+        }
+      ]
+    }
+  },
+  "Schedule80RA": {
+    "DonationDtlsRsrchAssctn": [
+      {
+        "NameOfDonee": "ABCDA",
+        "AddressDetail": {
+          "AddrDetail": "Hyderabad",
+          "CityOrTownOrDistrict": "Secunderabad",
+          "StateCode": "36",
+          "PinCode": "505309"
+        },
+        "DoneePAN": "BSUPV1234Q",
+        "DonationAmtCash": 2565,
+        "DonationAmtOtherMode": 9087,
+        "DonationAmt": 90871,
+        "EligibleDonationAmt": 9876,
+        "DoneeARN": ""
+      }
+    ]
+  },
+  "ScheduleEI": {
+    "unabAgriLossPrev8": "",
+    "excNetAgriInc": {
+      "excNetAgriIncDtls": [
+        {
+          "nameOfDistrict": "",
+          "pinCode": "",
+          "measurementOfLand": "",
+          "agriLandOwnedFlag": "",
+          "agriLandIrrigatedFlag": ""
+        }
+      ]
+    },
+    "othersInc": {
+      "othersIncDtl": [
+        {
+          "natureExempt": "",
+          "acknowledgementNum": "",
+          "dateofFormFiled": ""
+        }
+      ]
+    }
+  }
+}
