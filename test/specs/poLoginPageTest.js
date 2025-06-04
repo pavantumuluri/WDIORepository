@@ -36,7 +36,7 @@ describe('cart e2e flow testcases',async()=>{
 
 
 mobileNamesFromJson.forEach(({moblieNamesList})  =>{
-    xit('login and items purchase TC smoke --2',async()=>{
+    it('login and items purchase TC smoke --2',async()=>{
        AllureReporter.addOwner('Pavan Kumar T')
        AllureReporter.addFeature('Add mobiles to cart and purchages form cart and delivered to specified address')
         await browser.url("https://rahulshettyacademy.com/loginpagePractise")
@@ -92,7 +92,7 @@ await utilityPage.takeScreenShot("dashborad page is displayed");
 })
 
 
-xit('step with screenshot Tc-3',async()=>{
+it('step with screenshot Tc-3',async()=>{
   try {
     await browser.url("https://rahulshettyacademy.com/loginpagePractise")
   await browser.maximizeWindow()
