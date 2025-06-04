@@ -9,6 +9,7 @@
     "@wdio/selenium-standalone-service": "^8.15.0",
     "@wdio/spec-reporter": "^8.11.2",
     "wdio-chromedriver-service": "^8.1.1",
+    "wdio-safaridriver-service": "^2.1.1",
     "wdio-selenium-standalone-service": "^0.0.12"
   },
   "scripts": {

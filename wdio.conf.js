@@ -1,3 +1,11 @@
+import os from 'os';
+
+// Determine Firefox binary path based on the operating system.
+console.log('os.platform()=='+os.platform())
+const firefoxPath = os.platform() === 'win32'
+  ? 'C:\\Program Files\\Mozilla Firefox\\firefox.exe'
+  : '/usr/bin/firefox';
+
 export const config = {
     //
     // ====================
@@ -62,7 +70,7 @@ export const config = {
         part2:['test/specs/cartE2EFlow.js','test/specs/poLoginPageTest.js']
     },
     specs: [
-        './test/specs/**/poLoginPageTest.js'
+        './test/specs/**/UIElements.js'
        //'./test/specs/**/*.js'
     ],
     // Patterns to exclude.
@@ -104,7 +112,11 @@ export const config = {
      //   maxInstances : 1,
         // capabilities for local browser web tests
         browserName: 'chrome' ,//,             // or "firefox", "microsoftedge", "safari",
-       // browserVersion: '120.0.1',
+        'moz:firefoxOptions': {
+          // Set the dynamically determined Firefox binary path
+          binary: firefoxPath,
+        },
+      //  browserVersion: 'stable',
        //geckoDriver: '0.33.0',
         'goog:chromeOptions': {
        //    chromedriverVersion: '119.0.6045.159',
@@ -122,6 +134,12 @@ export const config = {
        //   binary: '/path/to/firefox-binary', // Optional: Path to the Firefox binary
       //    args: [], // Optional: Command-line arguments for Firefox
         },
+         'ms:edgeOptions': {
+    //  binary: 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe',
+    //  args: ['--start-maximized'],
+      // Add any other EdgeOptions as needed
+    },
+   //path: 'D:\\WebdriverIO\\node_modules\\webdriver-manager\\selenium\\msedgedriver.exe', 
        
        // platformName: 'Windows',
         // grid settings
@@ -176,7 +194,7 @@ export const config = {
     // Services take over a specific job you don't want to take care of. They enhance
     // your test setup with almost no effort. Unlike plugins, they don't add new
     // commands. Instead, they hook themselves up into the test process.
-    services: ['selenium-standalone'],
+   //services: ['selenium-standalone'],
     
     // Framework you want to run your specs with.
     // The following are supported: Mocha, Jasmine, and Cucumber

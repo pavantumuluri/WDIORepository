@@ -3,7 +3,7 @@
 describe('UI components testcases',async()=>{
 
 
-    xit('UI Elements',async()=>{
+    it('UI Elements',async()=>{
         await browser.url("https://rahulshettyacademy.com/loginpagePractise")
         await browser.maximizeWindow()
         await $("#username").setValue('rahulshettyacademy')
@@ -38,7 +38,7 @@ describe('UI components testcases',async()=>{
 
     })
 
-    xit('dynamic dropdown tesstcase',async()=>{
+    it('dynamic dropdown tesstcase',async()=>{
         await browser.url("https://rahulshettyacademy.com/AutomationPractice")
         await browser.maximizeWindow()
         await $("#autocomplete").setValue("ind")
@@ -56,7 +56,7 @@ describe('UI components testcases',async()=>{
     })
 
 
-    it(' checkboxes and screenshot tesstcase',async()=>{
+    xit(' checkboxes and screenshot tesstcase',async()=>{
         await browser.url("https://rahulshettyacademy.com/AutomationPractice")
         await browser.maximizeWindow()
        
@@ -71,6 +71,29 @@ describe('UI components testcases',async()=>{
             }
         }
 
+    })
+
+
+    xit(' checkboxes and screenshot tesstcase',async()=>{
+        await browser.url("https://www.redbus.in/")
+        await browser.maximizeWindow()
+       
+        let source=await $("#src")
+        await source.setValue("hyderabad")
+        await browser.pause(2000)
+        let reqSource=await $("div[id='homeV2-root'] li:nth-child(4)")
+       await  reqSource.click()
+
+        let destination=await $("#dest")
+        destination.setValue("vijayawada")
+        await browser.pause(2000)
+        let reqDest=await $("div[id='homeV2-root'] li:nth-child(5)")
+        reqDest.click(); 
+        await browser.pause(8000)
+        await $(".DayTiles__CalendarDaysSpan-sc-1xum02u-1.bwoYtA").click()
+        await browser.pause(8000)
+        await $("#search_button").click();
+        await browser.pause(8000)
     })
 
 
