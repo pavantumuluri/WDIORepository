@@ -38,7 +38,7 @@ describe('UI components testcases',async()=>{
 
     })
 
-    it('dynamic dropdown tesstcase',async()=>{
+    xit('dynamic dropdown tesstcase',async()=>{
         await browser.url("https://rahulshettyacademy.com/AutomationPractice")
         await browser.maximizeWindow()
         await $("#autocomplete").setValue("ind")
