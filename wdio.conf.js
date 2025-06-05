@@ -70,7 +70,7 @@ export const config = {
         part2:['test/specs/cartE2EFlow.js','test/specs/poLoginPageTest.js']
     },
     specs: [
-        './test/specs/**/UIElements.js'
+        './test/specs/**/sample_test_05062025.js'
        //'./test/specs/**/*.js'
     ],
     // Patterns to exclude.
