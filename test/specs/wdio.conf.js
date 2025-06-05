@@ -70,7 +70,7 @@ export const config = {
         part2:['test/specs/cartE2EFlow.js','test/specs/poLoginPageTest.js']
     },
     specs: [
-        './test/specs/**/generateEnvironmentProperties.js'
+        './test/specs/**/sample_test_05062025.js'
        //'./test/specs/**/*.js'
     ],
     // Patterns to exclude.
@@ -112,39 +112,10 @@ export const config = {
      //   maxInstances : 1,
         // capabilities for local browser web tests
         browserName: 'chrome' ,//,             // or "firefox", "microsoftedge", "safari",
-        'moz:firefoxOptions': {
-          // Set the dynamically determined Firefox binary path
-          binary: firefoxPath,
-        },
-      //  browserVersion: 'stable',
-       //geckoDriver: '0.33.0',
-        'goog:chromeOptions': {
-       //    chromedriverVersion: '119.0.6045.159',
-      //      args: ['headless', 'disable-gpu']
-        },
-     
-        'goog:chromeOptions': {
-            // Specify Chrome options here
-          //  binary: 'test/drivers/chromedriver-win64.zip', // Optional
-          //  args: [], // Optional
-            // Add other Chrome options as needed
-        },
-        'moz:firefoxOptions': {
-          // Specify Firefox options, such as the desired version
-       //   binary: '/path/to/firefox-binary', // Optional: Path to the Firefox binary
-      //    args: [], // Optional: Command-line arguments for Firefox
-        },
-         'ms:edgeOptions': {
-    //  binary: 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe',
-    //  args: ['--start-maximized'],
-      // Add any other EdgeOptions as needed
-    },
-   //path: 'D:\\WebdriverIO\\node_modules\\webdriver-manager\\selenium\\msedgedriver.exe', 
-       
-       // platformName: 'Windows',
-        // grid settings
-        //'seleniumProtocol': 'WebDriver',
-       // 'seleniumGridHub': 'http://grid.example.com:4444/wd/hub',
+       'goog:chromeOptions': {
+             args: ['--headless', '--disable-gpu', '--no-sandbox']
+        }
+
      
     }],
     //
