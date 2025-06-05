@@ -1,11 +1,11 @@
 //const chaiexpect = require('chai').expect;
-const { addStepWithScreenshot,addScreenshotToLastReport, addStepWithFullScreenshot, addStepWithiDiffScreenshot, addToReport, addStepWithLabel,getOS,disableFileInputs,uploadFile,getElement,performBeforeEvent,expect,getTextToCompare,getDragAndDropElement } = require('../utility/helper.js');
-const report = require('../utility/report.js');
-const data = require('../testdata/data.js');
-const uploadedFiles = require('../testdata/uploadedFiles.js');
-const constants = require('../utility/constants.js');
-const fs = require('fs');
-const tab = '\uE004';
+
+import { addStepWithScreenshot, addScreenshotToLastReport, addStepWithFullScreenshot, addStepWithiDiffScreenshot, addToReport, addStepWithLabel, getOS, disableFileInputs, uploadFile, getElement, performBeforeEvent, expect, getTextToCompare, getDragAndDropElement } from '../utility/helper.js';
+import report from '../utility/report.js';
+import data from '../testdata/data.js';
+import uploadedFiles from '../testdata/uploadedFiles.js';
+import constants from '../utility/constants.js';
+import fs from 'fs';
 
 describe("tb754_tbpractice_05062025", async ()=>{
 	let url='https://testbook.ai/testbookpractice',initTime, endTime;
