@@ -11,7 +11,8 @@
     "wdio-chromedriver-service": "^8.1.1",
     "wdio-safaridriver-service": "^2.1.1",
     "wdio-selenium-standalone-service": "^0.0.12",
-    "jimp": "^0.22.0"
+    "jimp": "^0.22.0",
+    "canvas": "^3.1.0"
   },
   "scripts": {
     "wdio": "wdio run ./wdio.conf.js",
