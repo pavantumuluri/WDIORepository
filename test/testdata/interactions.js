@@ -5139,4 +5139,6 @@ module.exports = {
         "sleepTime": 2901,
         "isLastInteractionOfPage": true
     }
-}
+};
+// Export the object as the default export for this module
+export default interactions;
