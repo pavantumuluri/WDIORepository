@@ -1,7 +1,10 @@
-let constants = {
-    finalStatus: true,
+// /home/runner/work/WDIORepository/WDIORepository/test/utility/constants.js
+
+const constants = {
+    finalstatus: true,
     browser: null,
     beforePerformEvents:{}
-}
+};
 
-module.exports = constants;
+// Export the object as the default export for this module
+export default constants;
