@@ -15,14 +15,18 @@ jobs:
 
     - name: Install Mabl CLI
       run: |
-           curl -L https://downloads.mabl.com/cli/mabl-linux.tgz -o mabl-linux.tgz
-           tar -xzf mabl-linux.tgz
-           sudo mv mabl /usr/local/bin
-
+        curl -L https://downloads.mabl.com/cli/mabl-linux.tgz -o mabl-linux.tgz
+        tar -xzf mabl-linux.tgz
+        sudo mv mabl /usr/local/bin
 
     - name: Run Mabl Tests
       env:
         MABL_API_KEY: ${{ secrets.MABL_API_KEY }}
       run: |
         mabl auth --key $MABL_API_KEY
-        mabl tests run --application-id MoLzLYbGqkOVkMjqDotQPA-j --environment-id r03DV4ZJhPYccu9CetZ3eg-w --output json
+        mabl tests run \
+          --application-id MoLzLYbGqkOVkMjqDotQPA-j \
+          --environment-id r03DV4ZJhPYccu9CetZ3eg-w \
+          --fail-on-any-failure \
+          --wait \
+          --output json
