@@ -13,10 +13,11 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    - name: Install Mabl CLI
-      run: |
-        curl -s https://downloads.mabl.com/cli/mabl-linux.tgz | tar -xz
-        sudo mv ./mabl /usr/local/bin
+   - name: Install Mabl CLI
+  run: |
+    curl -L https://downloads.mabl.com/cli/mabl-cli-linux.tgz -o mabl-cli-linux.tgz
+    tar -xzf mabl-cli-linux.tgz
+    sudo mv mabl /usr/local/bin
 
     - name: Run Mabl Tests
       env:
