@@ -1,32 +1,26 @@
-name: Run WDIO Tests
+name: Run Mabl Tests
 
 on:
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    branches: [main]
+  workflow_dispatch: # allow manual run
 
 jobs:
-  test:
+  run-mabl-tests:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+    - name: Checkout code
+      uses: actions/checkout@v3
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
+    - name: Install Mabl CLI
+      run: |
+        curl -s https://downloads.mabl.com/cli/mabl-linux.tgz | tar -xz
+        sudo mv ./mabl /usr/local/bin
 
-      - name: Install Dependencies
-        run: npm install
-
-      - name: Run WDIO Tests
-        run: npx wdio run wdio.conf.js
-
-      - name: Upload Allure Results
-        uses: actions/upload-artifact@v4
-        with:
-          name: allure-results
-          path: allure-results/
+    - name: Run Mabl Tests
+      env:
+        MABL_API_KEY: ${{ secrets.MABL_API_KEY }}
+      run: |
+        mabl auth --key $MABL_API_KEY
+        mabl tests run --application-id MoLzLYbGqkOVkMjqDotQPA-j --environment-id r03DV4ZJhPYccu9CetZ3eg-w --output json
