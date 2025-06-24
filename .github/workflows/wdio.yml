@@ -19,6 +19,6 @@ jobs:
         MABL_API_KEY: ${{ secrets.MABL_API_KEY }}
       with:
      
-         plan-labels: ci-cd  # 🔁 Replace with your exact Mabl plan label
-         application-id: Vkg2mHV6UUVGcXn4pOCRjA-p   # 🔁 Replace with your actual app ID
-         environment-id: BbKahcHZaXCxvaDwV97Ugg-e    # 🔁 Replace with your environment ID
+         plan-labels: ci-cd
+         application-id: Vkg2mHV6UUVGcXn4pOCRjA-p
+         environment-id: BbKahcHZaXCxvaDwV97Ugg-e
