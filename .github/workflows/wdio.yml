@@ -21,4 +21,4 @@ jobs:
      
          plan-labels: ci-cd  # 🔁 Replace with your exact Mabl plan label
          application-id: Vkg2mHV6UUVGcXn4pOCRjA-p   # 🔁 Replace with your actual app ID
-         environment-id: r03DV4ZJhPYccu9CetZ3eg-w    # 🔁 Replace with your environment ID
+         environment-id: BbKahcHZaXCxvaDwV97Ugg-e    # 🔁 Replace with your environment ID
