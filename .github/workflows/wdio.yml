@@ -3,7 +3,7 @@ name: Run Mabl Tests
 on:
   push:
     branches: [main]
-  workflow_dispatch: # allow manual run
+  workflow_dispatch: # Manual run support
 
 jobs:
   run-mabl-tests:
@@ -13,19 +13,9 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    - name: Install Mabl CLI
-      run: |
-           curl -L https://downloads.mabl.com/cli/install.sh | bash
-           sudo mv ./mabl /usr/local/bin
-
-    - name: Run Mabl Tests
-      env:
-        MABL_API_KEY: ${{ secrets.MABL_API_KEY }}
-      run: |
-        mabl auth --key $MABL_API_KEY
-        mabl tests run \
-          --application-id MoLzLYbGqkOVkMjqDotQPA-j \
-          --environment-id r03DV4ZJhPYccu9CetZ3eg-w \
-          --fail-on-any-failure \
-          --wait \
-          --output json
+    - name: Run Mabl Plan
+      uses: mablhq/github-run-tests-action@v1
+      with:
+        mabl-api-key: ${{ secrets.MABL_API_KEY }}
+        plan-id: Vkg2mHV6UUVGcXn4pOCRjA-p  # Replace with actual plan-id
+        environment-id: r03DV4ZJhPYccu9CetZ3eg-w  # Optional but recommended
