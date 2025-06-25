@@ -3,19 +3,24 @@ version: 2.1
 jobs:
   run-mabl-tests:
     docker:
-      - image: cimg/node:18.17.1
+      - image: cimg/node:18.17.1  # or any base image with curl support
     steps:
       - checkout
 
       - run:
           name: Install Mabl CLI
           command: |
-            curl -s https://app.mabl.com/download/mabl-cli/install.sh | bash
+            curl -Ls https://downloads.mabl.com/cli/mabl-cli-latest-linux.tgz | tar -xz
+            sudo mv mabl /usr/local/bin
+
+      - run:
+          name: Verify Mabl CLI version
+          command: mabl --version
 
       - run:
           name: Run Mabl Plan by Label
           command: |
-            ./mabl test run plan \
+            mabl test run plan \
               --plan-labels ci-cd \
               --application-id v8shDDOplBma19VTUWEkQA-a \
               --environment-id BbKahcHZaXCxvaDwV97Ugg-e \
