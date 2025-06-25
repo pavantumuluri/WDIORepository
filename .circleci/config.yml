@@ -3,14 +3,14 @@ version: 2.1
 jobs:
   run-mabl-tests:
     docker:
-      - image: cimg/node:18.17.1  # or any base image with curl support
+      - image: cimg/node:18.17.1
     steps:
       - checkout
 
       - run:
           name: Install Mabl CLI
           command: |
-            curl -Ls https://downloads.mabl.com/cli/mabl-cli-latest-linux.tgz | tar -xz
+            curl -s https://raw.githubusercontent.com/mablhq/mabl-cli/main/scripts/install-cli.sh | bash
             sudo mv mabl /usr/local/bin
 
       - run:
