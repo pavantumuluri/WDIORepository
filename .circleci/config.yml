@@ -6,7 +6,7 @@ jobs:
       - image: mablhq/mabl-cli:latest
     steps:
       - run:
-          name: Run Mabl Plan by Label
+          name: Run Mabl Tests in CI
           command: |
             mabl tests run \
               --plan-labels ci-cd \
@@ -15,6 +15,7 @@ jobs:
               --api-key $MABL_API_KEY
 
 workflows:
+  version: 2
   run-tests:
     jobs:
       - run-mabl-tests
