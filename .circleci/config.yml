@@ -12,7 +12,6 @@ jobs:
               --labels ci-cd \
               --application-id v8shDDOplBma19VTUWEkQA-a \
               --environment-id BbKahcHZaXCxvaDwV97Ugg-e 
-
 workflows:
   version: 2
   run-tests:
