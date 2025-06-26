@@ -11,7 +11,8 @@ jobs:
             mabl tests run \
               --labels ci-cd \
               --application-id v8shDDOplBma19VTUWEkQA-a \
-              --environment-id BbKahcHZaXCxvaDwV97Ugg-e
+              --environment-id BbKahcHZaXCxvaDwV97Ugg-e \
+              --api-key $MABL_API_KEY
 workflows:
   version: 2
   run-tests:
