@@ -8,7 +8,7 @@ jobs:
       - run:
           name: Run Mabl Plan by Label
           command: |
-            mabl tests run plan \
+            mabl tests run \
               --plan-labels ci-cd \
               --application-id v8shDDOplBma19VTUWEkQA-a \
               --environment-id BbKahcHZaXCxvaDwV97Ugg-e \
