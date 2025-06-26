@@ -9,10 +9,10 @@ jobs:
 
       - run:
           name: Install Mabl CLI
-         command: |
-                  curl -sSL https://downloads.mabl.com/cli/mabl-cli-linux -o mabl
-                  chmod +x mabl
-                  sudo mv mabl /usr/local/bin
+          command: |
+            curl -sSL https://downloads.mabl.com/cli/mabl-cli-linux -o mabl
+            chmod +x mabl
+            sudo mv mabl /usr/local/bin
 
       - run:
           name: Verify Mabl CLI version
