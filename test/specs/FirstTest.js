@@ -1,7 +1,5 @@
 describe('Firs test suite',async()=>{
-
     xit('First test case ', async()=> {
-   
         await browser.url("/loginpagePractise")
        await  console.log("title=="+await browser.getTitle())
        await  expect(browser).toHaveTitleContaining('Rahul Shetty Academy')
