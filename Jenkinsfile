@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Installing dependencies...'
+                echo 'Building the project...'
                 bat 'npm install'
             }
         }
@@ -16,14 +16,10 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo 'Deploying to C:\\inetpub\\wwwroot\\myapp...'
-                bat '''
-                if exist "C:\\inetpub\\wwwroot\\myapp" (
-                    rmdir /S /Q "C:\\inetpub\\wwwroot\\myapp"
-                )
                 mkdir "C:\\inetpub\\wwwroot\\myapp"
-                REM Simulate copying build output
-                echo Dummy deploy file > "C:\\inetpub\\wwwroot\\myapp\\index.html"
-                '''
+                bat 'rmdir /S /Q "C:\\inetpub\\wwwroot\\myapp"'
+                bat 'mkdir "C:\\inetpub\\wwwroot\\myapp"'
+                bat 'xcopy /Y /E /I build "C:\\inetpub\\wwwroot\\myapp"'
             }
         }
 
