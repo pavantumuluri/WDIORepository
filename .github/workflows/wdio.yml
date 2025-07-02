@@ -16,6 +16,6 @@ jobs:
         MABL_API_KEY: ${{ secrets.MABL_API_KEY }}
       with:
      
-         plan-labels: ci-cd
+         plan-labels: sauce-sit-ci-cd
          application-id: v8shDDOplBma19VTUWEkQA-a
          environment-id: BbKahcHZaXCxvaDwV97Ugg-e
