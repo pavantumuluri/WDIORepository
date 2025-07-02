@@ -29,9 +29,13 @@ pipeline {
         stage('Run Mabl Tests') {
             steps {
                 echo 'Running Mabl tests...'
-                bat 'npm install -g @mablhq/mabl-cli'
-                bat 'mabl tests run --application-id=v8shDDOplBma19VTUWEkQA-a --environment-id=BbKahcHZaXCxvaDwV97Ugg-e --api-key=%MABL_API_KEY%'
+                bat '''
+                npm install -g @mablhq/mabl-cli
+                set PATH=%APPDATA%\\npm;%PATH%
+                mabl tests run --application-id=v8shDDOplBma19VTUWEkQA-a --environment-id=BbKahcHZaXCxvaDwV97Ugg-e --api-key=%MABL_API_KEY%
+                '''
             }
         }
+
     }
 }
