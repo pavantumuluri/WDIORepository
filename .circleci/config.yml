@@ -9,7 +9,7 @@ jobs:
           name: Run Mabl Tests in CI
           command: |
             mabl tests run \
-              --labels ci-cd \
+              --labels sauce-sit-ci-cd \
               --application-id v8shDDOplBma19VTUWEkQA-a \
               --environment-id BbKahcHZaXCxvaDwV97Ugg-e \
               --api-key $MABL_API_KEY
