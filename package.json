@@ -13,14 +13,12 @@
     "wdio-selenium-standalone-service": "^0.0.12",
     "jimp": "^0.22.0",
     "canvas": "^3.1.0"
-  },
-  
+  },  
   "scripts": {
     "wdio": "wdio run ./wdio.conf.js",
     "QARegression": "npx wdio run wdio.conf.js --suite part2",
     "QARegression1": "npx wdio run wdio.conf.js --suite part1"
-  },
-  
+  },  
   "dependencies": {
     "allure-commandline": "^2.23.1",
     "chai": "^5.0.0-alpha.1",
