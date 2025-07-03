@@ -32,7 +32,7 @@ pipeline {
                 bat '''
                 npm install -g @mablhq/mabl-cli
                 set PATH=%APPDATA%\\npm;%PATH%
-                mabl tests run --application-id=v8shDDOplBma19VTUWEkQA-a --environment-id=BbKahcHZaXCxvaDwV97Ugg-e --api-key=%MABL_API_KEY%
+                mabl tests run --application-id=v8shDDOplBma19VTUWEkQA-a --environment-id=k4KhE68O3JQr3eq8pPYM5A-e --api-key=%MABL_API_KEY%
                 '''
             }
         }
