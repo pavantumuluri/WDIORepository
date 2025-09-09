@@ -14,7 +14,8 @@ describe('Firs test suite',async()=>{
             timeout:9000,
             timeoutMag:'eroor msg is not displayed'
         })
-       await console.log("===============================================")
+        //comment here
+       //await console.log("===============================================")
        await console.log(await $(".alert-danger").getText())
        await console.log("===============================================")
 
